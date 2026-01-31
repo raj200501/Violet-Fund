@@ -1,0 +1,90 @@
+name: CI
+
+on:
+  push:
+    branches: ["*"]
+  pull_request:
+
+jobs:
+  api:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: pgvector/pgvector:pg16
+        env:
+          POSTGRES_USER: violet
+          POSTGRES_PASSWORD: violet
+          POSTGRES_DB: violetfund
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd="pg_isready -U violet" 
+          --health-interval=10s
+          --health-timeout=5s
+          --health-retries=5
+    env:
+      POSTGRES_USER: violet
+      POSTGRES_PASSWORD: violet
+      POSTGRES_DB: violetfund
+      POSTGRES_HOST: localhost
+      POSTGRES_PORT: ${{ job.services.postgres.ports['5432'] }}
+      JWT_SECRET: test-secret
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        working-directory: apps/api
+        run: pip install -r requirements.txt
+      - name: Run migrations
+        working-directory: apps/api
+        run: alembic upgrade head
+      - name: Run tests
+        working-directory: apps/api
+        run: pytest
+  web:
+    runs-on: ubuntu-latest
+    env:
+      NPM_CONFIG_USERCONFIG: ${{ github.workspace }}/.npmrc
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install pnpm
+        run: |
+          set -e
+          if command -v corepack >/dev/null 2>&1; then
+            corepack enable
+            corepack prepare pnpm@9.1.1 --activate || true
+          fi
+          if ! command -v pnpm >/dev/null 2>&1; then
+            echo "corepack prepare failed or pnpm not found; installing pnpm globally as fallback"
+            npm install -g pnpm@9.1.1
+          fi
+          echo "pnpm installed at: $(which pnpm)"
+          pnpm --version
+      - name: Install dependencies
+        run: ./scripts/pnpm_install.sh
+      - name: Verify UI LOC
+        if: ${{ github.event_name == 'pull_request' }}
+        run: ./scripts/verify_ui_loc.sh
+      - name: Lint
+        run: pnpm lint
+      - name: Build
+        run: pnpm build
+      - name: UI previews
+        run: pnpm ui:previews
+      - name: Upload Storybook
+        uses: actions/upload-artifact@v4
+        with:
+          name: storybook-static
+          path: apps/web/storybook-static
+          if-no-files-found: warn
+      - name: Upload UI screenshots
+        uses: actions/upload-artifact@v4
+        with:
+          name: ui-screenshots
+          path: artifacts/ui
+          if-no-files-found: warn

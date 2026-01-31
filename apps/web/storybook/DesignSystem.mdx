@@ -1,0 +1,263 @@
+import { Meta, Title, Subtitle, Description, Preview, Story } from "@storybook/blocks";
+import {
+  Badge,
+  Button,
+  Card,
+  CardContent,
+  CardHeader,
+  CardTitle,
+  ConfidenceMeter,
+  DataTable,
+  DiffViewer,
+  EmptyState,
+  FilterBar,
+  MetricCard,
+  PageHeader,
+  ProgressBar,
+  SectionHeader,
+  SegmentedControl,
+  StatCards,
+  StatusBanner,
+  Surface,
+  Timeline
+} from "@violetfund/ui";
+
+<Meta title="Foundations/DesignSystemOverview" />
+
+<Title>VioletFund Design System</Title>
+<Subtitle>Premium fintech-inspired UI for an explainable funding copilot.</Subtitle>
+<Description>
+VioletFund combines Stripe-grade hierarchy, Linear-grade precision, and Vercel-inspired dark mode. Violet is reserved for
+high-signal accents such as action buttons, focus rings, and evidence chips.
+</Description>
+
+## Philosophy
+
+- **Accent-only violet:** Preserve calm density by limiting violet to call-to-actions, focus, and highlights.
+- **Layered surfaces:** Use raised, default, and sunken surfaces to build depth without noise.
+- **Evidence-first UI:** Make the “why” obvious with chips, summaries, and diff previews.
+- **Motion with intent:** 150–250ms transitions with reduced-motion support.
+
+## Color tokens
+
+<Preview>
+  <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+    {[
+      { label: "Violet 100", value: "var(--vf-violet-100)" },
+      { label: "Violet 600", value: "var(--vf-violet-600)" },
+      { label: "Ink 900", value: "var(--vf-ink-900)" },
+      { label: "Surface 100", value: "var(--vf-surface-100)" },
+      { label: "Emerald 500", value: "var(--vf-emerald-500)" },
+      { label: "Amber 500", value: "var(--vf-amber-500)" }
+    ].map((token) => (
+      <Surface key={token.label} tone="raised" className="flex items-center justify-between p-4">
+        <div>
+          <p className="text-sm font-semibold text-[var(--vf-ink-900)]">{token.label}</p>
+          <p className="text-xs text-[var(--vf-ink-500)]">{token.value}</p>
+        </div>
+        <span className="h-10 w-10 rounded-full border border-[var(--vf-border)]" style={{ background: token.value }} />
+      </Surface>
+    ))}
+  </div>
+</Preview>
+
+## Buttons
+
+<Preview>
+  <div className="flex flex-wrap gap-3">
+    <Button>Primary</Button>
+    <Button variant="secondary">Secondary</Button>
+    <Button variant="outline">Outline</Button>
+    <Button variant="ghost">Ghost</Button>
+    <Button variant="destructive">Destructive</Button>
+  </div>
+</Preview>
+
+## Surfaces
+
+<Preview>
+  <div className="grid gap-4 sm:grid-cols-2">
+    <Surface tone="default" className="p-6">Default surface</Surface>
+    <Surface tone="raised" className="p-6">Raised surface</Surface>
+    <Surface tone="sunken" className="p-6">Sunken surface</Surface>
+    <Surface tone="hero" className="p-6">Hero surface</Surface>
+  </div>
+</Preview>
+
+## Metrics
+
+<Preview>
+  <div className="grid gap-4 md:grid-cols-3">
+    <MetricCard label="Match confidence" value="84%" delta="+6%" helper="Based on profile signals." progress={84} tone="positive" />
+    <MetricCard label="Upcoming deadlines" value="6" delta="2 this week" helper="Keep high-fit entries moving." progress={66} tone="warning" />
+    <MetricCard label="Saved views" value="5" helper="Custom filters and queues." progress={45} tone="default" />
+  </div>
+</Preview>
+
+## Filter bars
+
+<Preview>
+  <FilterBar
+    searchPlaceholder="Search by program, region, or stage"
+    filters={[
+      { label: "Seed", value: "seed" },
+      { label: "Grant", value: "grant" },
+      { label: "Accelerator", value: "accelerator" },
+      { label: "Due soon", value: "deadline" }
+    ]}
+  />
+</Preview>
+
+## Table density
+
+<Preview>
+  <DataTable
+    columns={[
+      { key: "opportunity", label: "Opportunity" },
+      { key: "confidence", label: "Confidence" },
+      { key: "status", label: "Status" }
+    ]}
+    rows={[
+      { id: "1", opportunity: "Aurora Climate Grant", confidence: "86%", status: "Saved" },
+      { id: "2", opportunity: "Catalyst Accelerator", confidence: "82%", status: "Planned" },
+      { id: "3", opportunity: "Meridian Prize", confidence: "76%", status: "In review" }
+    ]}
+    rowKey={(row) => row.id}
+  />
+</Preview>
+
+## Status banners
+
+<Preview>
+  <div className="space-y-3">
+    <StatusBanner title="Demo data enabled" description="Connect your profile for personalized recommendations." />
+    <StatusBanner tone="success" title="Profile saved" description="Recommendations will refresh shortly." />
+    <StatusBanner tone="warning" title="Deadline approaching" description="Aurora grant closes in 7 days." />
+    <StatusBanner tone="danger" title="Sync failed" description="Reconnect to continue updates." />
+  </div>
+</Preview>
+
+## Evidence diff
+
+<Preview>
+  <DiffViewer
+    beforeText="Applicants must be women-led, seed-stage, and operate within North America."
+    afterText="Applicants must be women-led, seed-stage, and operate within North America or select global regions."
+  />
+</Preview>
+
+## Empty states
+
+<Preview>
+  <EmptyState
+    title="No saved opportunities"
+    description="Save opportunities to build your tracker pipeline."
+    actionLabel="Browse recommendations"
+  />
+</Preview>
+
+## Page header
+
+<Preview>
+  <PageHeader
+    eyebrow="Dashboard"
+    title="Funding recommendations"
+    description="Curated opportunities with explainable evidence and confidence scores."
+    badges={["Explainable", "Founder-first", "Auto refreshed"]}
+    action={<Button size="sm">Update profile</Button>}
+  />
+</Preview>
+
+## Timeline
+
+<Preview>
+  <Timeline
+    items={[
+      { title: "Eligibility review", time: "Today", description: "Confirm requirements and gather evidence." },
+      { title: "Narrative prep", time: "Next 3 days", description: "Draft mission and impact summary." },
+      { title: "Submission", time: "Next 2 weeks", description: "Finalize budget and submit application." }
+    ]}
+  />
+</Preview>
+
+## Segmented control
+
+<Preview>
+  <SegmentedControl
+    value="cards"
+    onChange={() => undefined}
+    options={[
+      { label: "Cards", value: "cards" },
+      { label: "Table", value: "table" },
+      { label: "Analytics", value: "analytics" }
+    ]}
+  />
+</Preview>
+
+## Confidence meter
+
+<Preview>
+  <ConfidenceMeter score={86} label="Match confidence" />
+</Preview>
+
+## Stat cards
+
+<Preview>
+  <StatCards
+    stats={[
+      { label: "Active opportunities", value: "32", delta: "+8", description: "Tracked this month." },
+      { label: "Confidence avg.", value: "82%", delta: "+5%", description: "Profile-based scoring." },
+      { label: "Deadline risk", value: "4", delta: "7 days", description: "High priority items." }
+    ]}
+  />
+</Preview>
+
+## Progress and quality
+
+<Preview>
+  <div className="space-y-4">
+    <ProgressBar value={72} label="Profile completion" tone="primary" />
+    <ProgressBar value={48} label="Funding readiness" tone="warning" />
+    <ProgressBar value={88} label="Evidence coverage" tone="success" />
+  </div>
+</Preview>
+
+## Editorial header
+
+<Preview>
+  <SectionHeader
+    eyebrow="Insights"
+    title="Funding readiness"
+    description="Track which signals need attention to reach high-confidence recommendations."
+    action={<Button size="sm">Review signals</Button>}
+  />
+</Preview>
+
+## Data cards
+
+<Preview>
+  <div className="grid gap-4 md:grid-cols-2">
+    <Card>
+      <CardHeader>
+        <CardTitle>Explainable match</CardTitle>
+        <CardDescription>Industry match · Stage fit · Region fit</CardDescription>
+      </CardHeader>
+      <CardContent>
+        <p className="text-sm text-[var(--vf-ink-600)]">
+          “Eligible women-led health startups in North America. Focus on seed teams with community impact.”
+        </p>
+      </CardContent>
+    </Card>
+    <Card>
+      <CardHeader>
+        <CardTitle>Realtime labeling feedback</CardTitle>
+        <CardDescription>Correct fields and re-rank instantly.</CardDescription>
+      </CardHeader>
+      <CardContent>
+        <p className="text-sm text-[var(--vf-ink-600)]">
+          Save edits to update your placement in the recommendation queue.
+        </p>
+      </CardContent>
+    </Card>
+  </div>
+</Preview>

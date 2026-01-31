@@ -1,0 +1,6 @@
+.storybook-wrapper {
+  padding: 2rem;
+  background: var(--vf-surface-200);
+  min-height: 100vh;
+  color: var(--vf-ink-900);
+}

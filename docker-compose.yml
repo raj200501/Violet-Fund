@@ -1,0 +1,47 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-violet}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-violet}
+      POSTGRES_DB: ${POSTGRES_DB:-violetfund}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  api:
+    build:
+      context: ./apps/api
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-violet}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-violet}
+      POSTGRES_DB: ${POSTGRES_DB:-violetfund}
+      POSTGRES_HOST: ${POSTGRES_HOST:-postgres}
+      POSTGRES_PORT: ${POSTGRES_PORT:-5432}
+      JWT_SECRET: ${JWT_SECRET:-dev-secret-change}
+      EMBEDDING_MODEL: ${EMBEDDING_MODEL:-sentence-transformers/all-MiniLM-L6-v2}
+    volumes:
+      - ./apps/api:/app
+      - ./data:/data
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+
+  web:
+    build:
+      context: .
+      dockerfile: apps/web/Dockerfile
+    environment:
+      NEXT_PUBLIC_API_BASE_URL: ${NEXT_PUBLIC_API_BASE_URL:-http://localhost:8000}
+    command: ["pnpm","--filter","web","dev"]
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api
+
+volumes:
+  pgdata:

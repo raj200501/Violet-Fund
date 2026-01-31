@@ -1,0 +1,17 @@
+{
+  "name": "violetfund",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "lint": "pnpm --filter web lint",
+    "build": "pnpm --filter web build",
+    "dev": "pnpm --filter web dev",
+    "ui:storybook": "pnpm --filter web storybook",
+    "ui:storybook:build": "pnpm --filter web storybook:build",
+    "ui:screenshots": "pnpm --filter web screenshots",
+    "ui:previews": "./scripts/ui_previews.sh"
+  }
+}

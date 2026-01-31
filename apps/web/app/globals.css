@@ -1,0 +1,122 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --vf-violet-25: #fbfaff;
+  --vf-violet-50: #f5f3ff;
+  --vf-violet-100: #ede9fe;
+  --vf-violet-200: #ddd6fe;
+  --vf-violet-300: #c4b5fd;
+  --vf-violet-400: #a78bfa;
+  --vf-violet-500: #8b5cf6;
+  --vf-violet-600: #7c3aed;
+  --vf-violet-700: #6d28d9;
+  --vf-violet-800: #5b21b6;
+  --vf-surface: #ffffff;
+  --vf-surface-100: #fdfbff;
+  --vf-surface-200: #f5f4fb;
+  --vf-surface-300: #ebe9f6;
+  --vf-surface-400: #e2e4f0;
+  --vf-ink-900: #0f172a;
+  --vf-ink-800: #1f2937;
+  --vf-ink-700: #334155;
+  --vf-ink-600: #475569;
+  --vf-ink-500: #64748b;
+  --vf-ink-400: #94a3b8;
+  --vf-ink-300: #cbd5f5;
+  --vf-border: #e2e8f0;
+  --vf-border-strong: #cbd5f5;
+  --vf-border-subtle: #eff2f7;
+  --vf-graphite-100: #eef1f6;
+  --vf-graphite-300: #b4becc;
+  --vf-graphite-500: #57606f;
+  --vf-graphite-700: #2b313d;
+  --vf-emerald-50: #ecfdf3;
+  --vf-emerald-100: #d1fae5;
+  --vf-emerald-200: #a7f3d0;
+  --vf-emerald-500: #10b981;
+  --vf-emerald-700: #047857;
+  --vf-amber-50: #fffbeb;
+  --vf-amber-100: #fef3c7;
+  --vf-amber-200: #fde68a;
+  --vf-amber-500: #f59e0b;
+  --vf-amber-700: #b45309;
+  --vf-rose-50: #fff1f2;
+  --vf-rose-100: #ffe4e6;
+  --vf-rose-200: #fecdd3;
+  --vf-rose-500: #f43f5e;
+  --vf-rose-600: #e11d48;
+  --vf-rose-700: #be123c;
+  --vf-sky-100: #e0f2fe;
+  --vf-sky-500: #0ea5e9;
+  --vf-shadow-soft: 0 1px 3px rgba(15, 23, 42, 0.08), 0 1px 2px rgba(15, 23, 42, 0.04);
+  --vf-shadow-medium: 0 8px 30px rgba(15, 23, 42, 0.12);
+  --vf-shadow-deep: 0 16px 40px rgba(15, 23, 42, 0.18);
+  --vf-shadow-glow: 0 0 0 1px rgba(139, 92, 246, 0.18), 0 12px 32px rgba(124, 58, 237, 0.2);
+  --vf-radius-sm: 8px;
+  --vf-radius-md: 12px;
+  --vf-radius-lg: 16px;
+  --vf-radius-xl: 20px;
+  --vf-radius-2xl: 24px;
+  --vf-radius-3xl: 28px;
+  --vf-motion-fast: 150ms;
+  --vf-motion-medium: 200ms;
+  --vf-motion-slow: 250ms;
+  --vf-font-family: "Inter", "Segoe UI", system-ui, sans-serif;
+  --vf-gradient-hero: radial-gradient(circle at top, rgba(124, 58, 237, 0.12), transparent 55%),
+    radial-gradient(circle at 20% 20%, rgba(14, 165, 233, 0.08), transparent 40%);
+  --vf-gradient-surface: linear-gradient(135deg, rgba(237, 233, 254, 0.6) 0%, rgba(255, 255, 255, 0.95) 100%);
+  --vf-noise: url("data:image/svg+xml,%3Csvg width='120' height='120' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23n)' opacity='0.12'/%3E%3C/svg%3E");
+}
+
+[data-theme="dark"] {
+  --vf-surface: #0b1120;
+  --vf-surface-100: #0f172a;
+  --vf-surface-200: #111827;
+  --vf-surface-300: #1f2937;
+  --vf-surface-400: #273246;
+  --vf-ink-900: #f8fafc;
+  --vf-ink-800: #e2e8f0;
+  --vf-ink-700: #cbd5f5;
+  --vf-ink-600: #94a3b8;
+  --vf-ink-500: #64748b;
+  --vf-ink-400: #475569;
+  --vf-ink-300: #334155;
+  --vf-border: #1f2937;
+  --vf-border-strong: #334155;
+  --vf-border-subtle: #1a2232;
+  --vf-gradient-hero: radial-gradient(circle at top, rgba(124, 58, 237, 0.2), transparent 55%),
+    radial-gradient(circle at 20% 20%, rgba(14, 165, 233, 0.12), transparent 40%);
+  --vf-gradient-surface: linear-gradient(135deg, rgba(17, 24, 39, 0.9) 0%, rgba(15, 23, 42, 0.95) 100%);
+}
+
+body {
+  @apply min-h-screen bg-[var(--vf-surface-200)] text-[var(--vf-ink-900)] antialiased;
+  font-family: var(--vf-font-family);
+  font-feature-settings: "ss01";
+}
+
+.gradient-card {
+  background: var(--vf-gradient-surface);
+}
+
+.surface-noise {
+  background-image: var(--vf-noise);
+  background-blend-mode: soft-light;
+}
+
+.surface-hero {
+  background-image: var(--vf-gradient-hero);
+}
+
+.focus-ring {
+  @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[var(--vf-violet-400)] focus-visible:ring-offset-0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0ms !important;
+    transition-duration: 0ms !important;
+  }
+}

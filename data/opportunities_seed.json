@@ -1,0 +1,5252 @@
+[
+  {
+    "title": "AgriTech Women Founders Competition 1",
+    "org": "AgriTech Equity Fund 2",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "competition",
+    "amount_text": "Up to $55k",
+    "deadline": "2025-12-02",
+    "eligibility_text": "Women-led agritech companies based in Europe at Growth stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "AgriTech Women Founders Competition 1 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Europe. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Accelerator 2",
+    "org": "Manufacturing Equity Fund 3",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $60k",
+    "deadline": "2025-12-03",
+    "eligibility_text": "Women-led manufacturing companies based in Global at Growth stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Manufacturing Women Founders Accelerator 2 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Global. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Vc Program 3",
+    "org": "Manufacturing Equity Fund 4",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "VC program",
+    "amount_text": "Up to $65k",
+    "deadline": "2025-12-04",
+    "eligibility_text": "Women-led manufacturing companies based in Europe at Seed stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Manufacturing Women Founders Vc Program 3 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Europe. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Grant 4",
+    "org": "FinTech Equity Fund 5",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "grant",
+    "amount_text": "Up to $70k",
+    "deadline": "2025-12-05",
+    "eligibility_text": "Women-led fintech companies based in Africa at Growth stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "FinTech Women Founders Grant 4 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Africa. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Loan 5",
+    "org": "AI Equity Fund 6",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "loan",
+    "amount_text": "Up to $75k",
+    "deadline": "2025-12-06",
+    "eligibility_text": "Women-led ai companies based in Africa at Pre-seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "AI Women Founders Loan 5 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Africa. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Competition 6",
+    "org": "Biotech Equity Fund 7",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "competition",
+    "amount_text": "Up to $80k",
+    "deadline": "2025-12-07",
+    "eligibility_text": "Women-led biotech companies based in Asia at Series A stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Biotech Women Founders Competition 6 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Asia. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Accelerator 7",
+    "org": "AgriTech Equity Fund 8",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $85k",
+    "deadline": "2025-12-08",
+    "eligibility_text": "Women-led agritech companies based in North America at Idea stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "AgriTech Women Founders Accelerator 7 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in North America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Competition 8",
+    "org": "AI Equity Fund 9",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "competition",
+    "amount_text": "Up to $90k",
+    "deadline": "2025-12-09",
+    "eligibility_text": "Women-led ai companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "AI Women Founders Competition 8 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Competition 9",
+    "org": "Retail Equity Fund 10",
+    "url": "https://www.wef.org/",
+    "funding_type": "competition",
+    "amount_text": "Up to $95k",
+    "deadline": "2025-12-10",
+    "eligibility_text": "Women-led retail companies based in Europe at Pre-seed stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Retail Women Founders Competition 9 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Europe. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Competition 10",
+    "org": "Manufacturing Equity Fund 11",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "competition",
+    "amount_text": "Up to $100k",
+    "deadline": "2025-12-11",
+    "eligibility_text": "Women-led manufacturing companies based in Europe at Seed stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Manufacturing Women Founders Competition 10 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Europe. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Grant 11",
+    "org": "Climate Equity Fund 12",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "grant",
+    "amount_text": "Up to $105k",
+    "deadline": "2025-12-12",
+    "eligibility_text": "Women-led climate companies based in Global at Series A stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Climate Women Founders Grant 11 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Global. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Accelerator 12",
+    "org": "Manufacturing Equity Fund 13",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $110k",
+    "deadline": "2025-12-13",
+    "eligibility_text": "Women-led manufacturing companies based in Asia at Idea stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Manufacturing Women Founders Accelerator 12 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Asia. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Competition 13",
+    "org": "Community Equity Fund 14",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $115k",
+    "deadline": "2025-12-14",
+    "eligibility_text": "Women-led community companies based in Asia at Series A stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Community Women Founders Competition 13 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Asia. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Competition 14",
+    "org": "Climate Equity Fund 15",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "competition",
+    "amount_text": "Up to $120k",
+    "deadline": "2025-12-15",
+    "eligibility_text": "Women-led climate companies based in North America at Seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Climate Women Founders Competition 14 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in North America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Grant 15",
+    "org": "AI Equity Fund 1",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "grant",
+    "amount_text": "Up to $125k",
+    "deadline": "2025-12-16",
+    "eligibility_text": "Women-led ai companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "AI Women Founders Grant 15 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Vc Program 16",
+    "org": "Manufacturing Equity Fund 2",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $130k",
+    "deadline": "2025-12-17",
+    "eligibility_text": "Women-led manufacturing companies based in Global at Growth stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Manufacturing Women Founders Vc Program 16 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Global. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Accelerator 17",
+    "org": "FinTech Equity Fund 3",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $135k",
+    "deadline": "2025-12-18",
+    "eligibility_text": "Women-led fintech companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "FinTech Women Founders Accelerator 17 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Vc Program 18",
+    "org": "Education Equity Fund 4",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $140k",
+    "deadline": "2025-12-19",
+    "eligibility_text": "Women-led education companies based in Asia at Growth stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Education Women Founders Vc Program 18 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Asia. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Accelerator 19",
+    "org": "Climate Equity Fund 5",
+    "url": "https://www.wef.org/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $145k",
+    "deadline": "2025-12-20",
+    "eligibility_text": "Women-led climate companies based in Asia at Seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Climate Women Founders Accelerator 19 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Asia. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Grant 20",
+    "org": "Manufacturing Equity Fund 6",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "grant",
+    "amount_text": "Up to $50k",
+    "deadline": "2025-12-21",
+    "eligibility_text": "Women-led manufacturing companies based in Europe at Pre-seed stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Manufacturing Women Founders Grant 20 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Europe. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Loan 21",
+    "org": "Climate Equity Fund 7",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "loan",
+    "amount_text": "Up to $55k",
+    "deadline": "2025-12-22",
+    "eligibility_text": "Women-led climate companies based in North America at Seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Climate Women Founders Loan 21 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in North America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Loan 22",
+    "org": "Retail Equity Fund 8",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "loan",
+    "amount_text": "Up to $60k",
+    "deadline": "2025-12-23",
+    "eligibility_text": "Women-led retail companies based in Global at Idea stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Retail Women Founders Loan 22 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Global. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Accelerator 23",
+    "org": "FinTech Equity Fund 9",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $65k",
+    "deadline": "2025-12-24",
+    "eligibility_text": "Women-led fintech companies based in Latin America at Seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "FinTech Women Founders Accelerator 23 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Latin America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Accelerator 24",
+    "org": "AgriTech Equity Fund 10",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $70k",
+    "deadline": "2025-12-25",
+    "eligibility_text": "Women-led agritech companies based in Global at Idea stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "AgriTech Women Founders Accelerator 24 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Global. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Grant 25",
+    "org": "Climate Equity Fund 11",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "grant",
+    "amount_text": "Up to $75k",
+    "deadline": "2025-12-26",
+    "eligibility_text": "Women-led climate companies based in Europe at Idea stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Climate Women Founders Grant 25 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Europe. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Grant 26",
+    "org": "AI Equity Fund 12",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "grant",
+    "amount_text": "Up to $80k",
+    "deadline": "2025-12-27",
+    "eligibility_text": "Women-led ai companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "AI Women Founders Grant 26 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Loan 27",
+    "org": "Biotech Equity Fund 13",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "loan",
+    "amount_text": "Up to $85k",
+    "deadline": "2025-12-28",
+    "eligibility_text": "Women-led biotech companies based in Latin America at Series A stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Biotech Women Founders Loan 27 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Latin America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Vc Program 28",
+    "org": "Health Equity Fund 14",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $90k",
+    "deadline": "2025-12-01",
+    "eligibility_text": "Women-led health companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Health Women Founders Vc Program 28 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Vc Program 29",
+    "org": "AI Equity Fund 15",
+    "url": "https://www.wef.org/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $95k",
+    "deadline": "2025-12-02",
+    "eligibility_text": "Women-led ai companies based in Asia at Series A stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "AI Women Founders Vc Program 29 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Asia. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Competition 30",
+    "org": "FinTech Equity Fund 1",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "competition",
+    "amount_text": "Up to $100k",
+    "deadline": "2025-12-03",
+    "eligibility_text": "Women-led fintech companies based in Latin America at Seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "FinTech Women Founders Competition 30 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Latin America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Vc Program 31",
+    "org": "FinTech Equity Fund 2",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "VC program",
+    "amount_text": "Up to $105k",
+    "deadline": "2025-12-04",
+    "eligibility_text": "Women-led fintech companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "FinTech Women Founders Vc Program 31 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Accelerator 32",
+    "org": "FinTech Equity Fund 3",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $110k",
+    "deadline": "2025-12-05",
+    "eligibility_text": "Women-led fintech companies based in Africa at Seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "FinTech Women Founders Accelerator 32 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Africa. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Accelerator 33",
+    "org": "Education Equity Fund 4",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $115k",
+    "deadline": "2025-12-06",
+    "eligibility_text": "Women-led education companies based in Europe at Seed stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Education Women Founders Accelerator 33 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Europe. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Loan 34",
+    "org": "Biotech Equity Fund 5",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "loan",
+    "amount_text": "Up to $120k",
+    "deadline": "2025-12-07",
+    "eligibility_text": "Women-led biotech companies based in Global at Series A stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Biotech Women Founders Loan 34 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Global. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Competition 35",
+    "org": "AgriTech Equity Fund 6",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "competition",
+    "amount_text": "Up to $125k",
+    "deadline": "2025-12-08",
+    "eligibility_text": "Women-led agritech companies based in Asia at Series A stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "AgriTech Women Founders Competition 35 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Asia. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Grant 36",
+    "org": "Retail Equity Fund 7",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "grant",
+    "amount_text": "Up to $130k",
+    "deadline": "2025-12-09",
+    "eligibility_text": "Women-led retail companies based in Africa at Idea stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Retail Women Founders Grant 36 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Africa. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Loan 37",
+    "org": "AgriTech Equity Fund 8",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "loan",
+    "amount_text": "Up to $135k",
+    "deadline": "2025-12-10",
+    "eligibility_text": "Women-led agritech companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "AgriTech Women Founders Loan 37 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Vc Program 38",
+    "org": "Biotech Equity Fund 9",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $140k",
+    "deadline": "2025-12-11",
+    "eligibility_text": "Women-led biotech companies based in Global at Seed stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Biotech Women Founders Vc Program 38 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Global. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Competition 39",
+    "org": "Manufacturing Equity Fund 10",
+    "url": "https://www.wef.org/",
+    "funding_type": "competition",
+    "amount_text": "Up to $145k",
+    "deadline": "2025-12-12",
+    "eligibility_text": "Women-led manufacturing companies based in Global at Seed stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Manufacturing Women Founders Competition 39 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Global. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Loan 40",
+    "org": "AgriTech Equity Fund 11",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "loan",
+    "amount_text": "Up to $50k",
+    "deadline": "2025-12-13",
+    "eligibility_text": "Women-led agritech companies based in North America at Idea stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "AgriTech Women Founders Loan 40 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in North America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Grant 41",
+    "org": "Education Equity Fund 12",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "grant",
+    "amount_text": "Up to $55k",
+    "deadline": "2025-12-14",
+    "eligibility_text": "Women-led education companies based in Latin America at Pre-seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Education Women Founders Grant 41 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Latin America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Accelerator 42",
+    "org": "FinTech Equity Fund 13",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $60k",
+    "deadline": "2025-12-15",
+    "eligibility_text": "Women-led fintech companies based in Europe at Idea stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "FinTech Women Founders Accelerator 42 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Europe. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Loan 43",
+    "org": "Biotech Equity Fund 14",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "loan",
+    "amount_text": "Up to $65k",
+    "deadline": "2025-12-16",
+    "eligibility_text": "Women-led biotech companies based in Asia at Growth stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Biotech Women Founders Loan 43 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Asia. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Competition 44",
+    "org": "FinTech Equity Fund 15",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "competition",
+    "amount_text": "Up to $70k",
+    "deadline": "2025-12-17",
+    "eligibility_text": "Women-led fintech companies based in Latin America at Series A stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "FinTech Women Founders Competition 44 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Latin America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Accelerator 45",
+    "org": "Community Equity Fund 1",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $75k",
+    "deadline": "2025-12-18",
+    "eligibility_text": "Women-led community companies based in Global at Growth stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Community Women Founders Accelerator 45 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Global. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Loan 46",
+    "org": "AgriTech Equity Fund 2",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "loan",
+    "amount_text": "Up to $80k",
+    "deadline": "2025-12-19",
+    "eligibility_text": "Women-led agritech companies based in North America at Idea stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "AgriTech Women Founders Loan 46 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in North America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Accelerator 47",
+    "org": "Biotech Equity Fund 3",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $85k",
+    "deadline": "2025-12-20",
+    "eligibility_text": "Women-led biotech companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Biotech Women Founders Accelerator 47 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Vc Program 48",
+    "org": "Manufacturing Equity Fund 4",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $90k",
+    "deadline": "2025-12-21",
+    "eligibility_text": "Women-led manufacturing companies based in Asia at Seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Manufacturing Women Founders Vc Program 48 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Asia. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Loan 49",
+    "org": "AI Equity Fund 5",
+    "url": "https://www.wef.org/",
+    "funding_type": "loan",
+    "amount_text": "Up to $95k",
+    "deadline": "2025-12-22",
+    "eligibility_text": "Women-led ai companies based in Global at Idea stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "AI Women Founders Loan 49 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Global. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Grant 50",
+    "org": "Health Equity Fund 6",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "grant",
+    "amount_text": "Up to $100k",
+    "deadline": "2025-12-23",
+    "eligibility_text": "Women-led health companies based in Asia at Idea stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Health Women Founders Grant 50 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Asia. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Grant 51",
+    "org": "Climate Equity Fund 7",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "grant",
+    "amount_text": "Up to $105k",
+    "deadline": "2025-12-24",
+    "eligibility_text": "Women-led climate companies based in Global at Series A stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Climate Women Founders Grant 51 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Global. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Accelerator 52",
+    "org": "AI Equity Fund 8",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $110k",
+    "deadline": "2025-12-25",
+    "eligibility_text": "Women-led ai companies based in North America at Idea stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "AI Women Founders Accelerator 52 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in North America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Accelerator 53",
+    "org": "Health Equity Fund 9",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $115k",
+    "deadline": "2025-12-26",
+    "eligibility_text": "Women-led health companies based in Asia at Idea stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Health Women Founders Accelerator 53 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Asia. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Grant 54",
+    "org": "Health Equity Fund 10",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "grant",
+    "amount_text": "Up to $120k",
+    "deadline": "2025-12-27",
+    "eligibility_text": "Women-led health companies based in Africa at Pre-seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Health Women Founders Grant 54 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Africa. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Competition 55",
+    "org": "Biotech Equity Fund 11",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "competition",
+    "amount_text": "Up to $125k",
+    "deadline": "2025-12-28",
+    "eligibility_text": "Women-led biotech companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Biotech Women Founders Competition 55 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Accelerator 56",
+    "org": "Community Equity Fund 12",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $130k",
+    "deadline": "2025-12-01",
+    "eligibility_text": "Women-led community companies based in Africa at Series A stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Community Women Founders Accelerator 56 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Africa. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Accelerator 57",
+    "org": "Retail Equity Fund 13",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $135k",
+    "deadline": "2025-12-02",
+    "eligibility_text": "Women-led retail companies based in Africa at Idea stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Retail Women Founders Accelerator 57 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Africa. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Grant 58",
+    "org": "Health Equity Fund 14",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "grant",
+    "amount_text": "Up to $140k",
+    "deadline": "2025-12-03",
+    "eligibility_text": "Women-led health companies based in Latin America at Pre-seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Health Women Founders Grant 58 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Latin America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Grant 59",
+    "org": "Education Equity Fund 15",
+    "url": "https://www.wef.org/",
+    "funding_type": "grant",
+    "amount_text": "Up to $145k",
+    "deadline": "2025-12-04",
+    "eligibility_text": "Women-led education companies based in Latin America at Seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Education Women Founders Grant 59 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Latin America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Vc Program 60",
+    "org": "Manufacturing Equity Fund 1",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "VC program",
+    "amount_text": "Up to $50k",
+    "deadline": "2025-12-05",
+    "eligibility_text": "Women-led manufacturing companies based in Latin America at Series A stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Manufacturing Women Founders Vc Program 60 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Latin America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Loan 61",
+    "org": "FinTech Equity Fund 2",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "loan",
+    "amount_text": "Up to $55k",
+    "deadline": "2025-12-06",
+    "eligibility_text": "Women-led fintech companies based in Asia at Growth stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "FinTech Women Founders Loan 61 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Asia. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Loan 62",
+    "org": "Manufacturing Equity Fund 3",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "loan",
+    "amount_text": "Up to $60k",
+    "deadline": "2025-12-07",
+    "eligibility_text": "Women-led manufacturing companies based in Africa at Pre-seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Manufacturing Women Founders Loan 62 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Africa. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Accelerator 63",
+    "org": "Health Equity Fund 4",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $65k",
+    "deadline": "2025-12-08",
+    "eligibility_text": "Women-led health companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Health Women Founders Accelerator 63 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Competition 64",
+    "org": "Biotech Equity Fund 5",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "competition",
+    "amount_text": "Up to $70k",
+    "deadline": "2025-12-09",
+    "eligibility_text": "Women-led biotech companies based in Africa at Pre-seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Biotech Women Founders Competition 64 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Africa. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Accelerator 65",
+    "org": "AgriTech Equity Fund 6",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $75k",
+    "deadline": "2025-12-10",
+    "eligibility_text": "Women-led agritech companies based in Asia at Idea stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "AgriTech Women Founders Accelerator 65 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Asia. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Vc Program 66",
+    "org": "Biotech Equity Fund 7",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $80k",
+    "deadline": "2025-12-11",
+    "eligibility_text": "Women-led biotech companies based in Latin America at Pre-seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Biotech Women Founders Vc Program 66 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Latin America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Loan 67",
+    "org": "Biotech Equity Fund 8",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "loan",
+    "amount_text": "Up to $85k",
+    "deadline": "2025-12-12",
+    "eligibility_text": "Women-led biotech companies based in Global at Seed stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Biotech Women Founders Loan 67 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Global. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Competition 68",
+    "org": "Retail Equity Fund 9",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "competition",
+    "amount_text": "Up to $90k",
+    "deadline": "2025-12-13",
+    "eligibility_text": "Women-led retail companies based in Latin America at Growth stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Retail Women Founders Competition 68 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Latin America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Loan 69",
+    "org": "Climate Equity Fund 10",
+    "url": "https://www.wef.org/",
+    "funding_type": "loan",
+    "amount_text": "Up to $95k",
+    "deadline": "2025-12-14",
+    "eligibility_text": "Women-led climate companies based in Africa at Growth stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Climate Women Founders Loan 69 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Africa. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Competition 70",
+    "org": "FinTech Equity Fund 11",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "competition",
+    "amount_text": "Up to $100k",
+    "deadline": "2025-12-15",
+    "eligibility_text": "Women-led fintech companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "FinTech Women Founders Competition 70 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Grant 71",
+    "org": "Biotech Equity Fund 12",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "grant",
+    "amount_text": "Up to $105k",
+    "deadline": "2025-12-16",
+    "eligibility_text": "Women-led biotech companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Biotech Women Founders Grant 71 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Accelerator 72",
+    "org": "Education Equity Fund 13",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $110k",
+    "deadline": "2025-12-17",
+    "eligibility_text": "Women-led education companies based in Latin America at Pre-seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Education Women Founders Accelerator 72 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Latin America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Competition 73",
+    "org": "AgriTech Equity Fund 14",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $115k",
+    "deadline": "2025-12-18",
+    "eligibility_text": "Women-led agritech companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "AgriTech Women Founders Competition 73 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Vc Program 74",
+    "org": "Health Equity Fund 15",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "VC program",
+    "amount_text": "Up to $120k",
+    "deadline": "2025-12-19",
+    "eligibility_text": "Women-led health companies based in Africa at Seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Health Women Founders Vc Program 74 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Africa. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Grant 75",
+    "org": "AgriTech Equity Fund 1",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "grant",
+    "amount_text": "Up to $125k",
+    "deadline": "2025-12-20",
+    "eligibility_text": "Women-led agritech companies based in Asia at Pre-seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "AgriTech Women Founders Grant 75 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Asia. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Competition 76",
+    "org": "Climate Equity Fund 2",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "competition",
+    "amount_text": "Up to $130k",
+    "deadline": "2025-12-21",
+    "eligibility_text": "Women-led climate companies based in Latin America at Idea stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Climate Women Founders Competition 76 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Latin America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Vc Program 77",
+    "org": "Retail Equity Fund 3",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $135k",
+    "deadline": "2025-12-22",
+    "eligibility_text": "Women-led retail companies based in North America at Growth stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Retail Women Founders Vc Program 77 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in North America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Competition 78",
+    "org": "Retail Equity Fund 4",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "competition",
+    "amount_text": "Up to $140k",
+    "deadline": "2025-12-23",
+    "eligibility_text": "Women-led retail companies based in Latin America at Growth stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Retail Women Founders Competition 78 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Latin America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Competition 79",
+    "org": "FinTech Equity Fund 5",
+    "url": "https://www.wef.org/",
+    "funding_type": "competition",
+    "amount_text": "Up to $145k",
+    "deadline": "2025-12-24",
+    "eligibility_text": "Women-led fintech companies based in Europe at Series A stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "FinTech Women Founders Competition 79 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Europe. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Grant 80",
+    "org": "Health Equity Fund 6",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "grant",
+    "amount_text": "Up to $50k",
+    "deadline": "2025-12-25",
+    "eligibility_text": "Women-led health companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Health Women Founders Grant 80 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Grant 81",
+    "org": "Education Equity Fund 7",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "grant",
+    "amount_text": "Up to $55k",
+    "deadline": "2025-12-26",
+    "eligibility_text": "Women-led education companies based in Latin America at Series A stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Education Women Founders Grant 81 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Latin America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Grant 82",
+    "org": "Education Equity Fund 8",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "grant",
+    "amount_text": "Up to $60k",
+    "deadline": "2025-12-27",
+    "eligibility_text": "Women-led education companies based in Latin America at Seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Education Women Founders Grant 82 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Latin America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Grant 83",
+    "org": "Climate Equity Fund 9",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "grant",
+    "amount_text": "Up to $65k",
+    "deadline": "2025-12-28",
+    "eligibility_text": "Women-led climate companies based in Asia at Seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Climate Women Founders Grant 83 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Asia. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Competition 84",
+    "org": "Community Equity Fund 10",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "competition",
+    "amount_text": "Up to $70k",
+    "deadline": "2025-12-01",
+    "eligibility_text": "Women-led community companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Community Women Founders Competition 84 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Grant 85",
+    "org": "Community Equity Fund 11",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "grant",
+    "amount_text": "Up to $75k",
+    "deadline": "2025-12-02",
+    "eligibility_text": "Women-led community companies based in Latin America at Series A stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Community Women Founders Grant 85 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Latin America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Accelerator 86",
+    "org": "Biotech Equity Fund 12",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $80k",
+    "deadline": "2025-12-03",
+    "eligibility_text": "Women-led biotech companies based in Latin America at Idea stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Biotech Women Founders Accelerator 86 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Latin America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Competition 87",
+    "org": "Education Equity Fund 13",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "competition",
+    "amount_text": "Up to $85k",
+    "deadline": "2025-12-04",
+    "eligibility_text": "Women-led education companies based in Europe at Idea stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Education Women Founders Competition 87 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Europe. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Accelerator 88",
+    "org": "FinTech Equity Fund 14",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $90k",
+    "deadline": "2025-12-05",
+    "eligibility_text": "Women-led fintech companies based in North America at Growth stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "FinTech Women Founders Accelerator 88 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in North America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Loan 89",
+    "org": "Climate Equity Fund 15",
+    "url": "https://www.wef.org/",
+    "funding_type": "loan",
+    "amount_text": "Up to $95k",
+    "deadline": "2025-12-06",
+    "eligibility_text": "Women-led climate companies based in Africa at Growth stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Climate Women Founders Loan 89 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Africa. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Vc Program 90",
+    "org": "AI Equity Fund 1",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "VC program",
+    "amount_text": "Up to $100k",
+    "deadline": "2025-12-07",
+    "eligibility_text": "Women-led ai companies based in Africa at Pre-seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "AI Women Founders Vc Program 90 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Africa. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Grant 91",
+    "org": "Community Equity Fund 2",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "grant",
+    "amount_text": "Up to $105k",
+    "deadline": "2025-12-08",
+    "eligibility_text": "Women-led community companies based in Africa at Growth stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Community Women Founders Grant 91 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Africa. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Accelerator 92",
+    "org": "Education Equity Fund 3",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $110k",
+    "deadline": "2025-12-09",
+    "eligibility_text": "Women-led education companies based in Africa at Growth stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Education Women Founders Accelerator 92 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Africa. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Vc Program 93",
+    "org": "Manufacturing Equity Fund 4",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "VC program",
+    "amount_text": "Up to $115k",
+    "deadline": "2025-12-10",
+    "eligibility_text": "Women-led manufacturing companies based in Global at Series A stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Manufacturing Women Founders Vc Program 93 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Global. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Competition 94",
+    "org": "FinTech Equity Fund 5",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "competition",
+    "amount_text": "Up to $120k",
+    "deadline": "2025-12-11",
+    "eligibility_text": "Women-led fintech companies based in Global at Idea stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "FinTech Women Founders Competition 94 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Global. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Loan 95",
+    "org": "Education Equity Fund 6",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "loan",
+    "amount_text": "Up to $125k",
+    "deadline": "2025-12-12",
+    "eligibility_text": "Women-led education companies based in Africa at Seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Education Women Founders Loan 95 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Africa. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Loan 96",
+    "org": "Retail Equity Fund 7",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "loan",
+    "amount_text": "Up to $130k",
+    "deadline": "2025-12-13",
+    "eligibility_text": "Women-led retail companies based in Global at Seed stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Retail Women Founders Loan 96 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Global. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Vc Program 97",
+    "org": "AgriTech Equity Fund 8",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $135k",
+    "deadline": "2025-12-14",
+    "eligibility_text": "Women-led agritech companies based in Global at Growth stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "AgriTech Women Founders Vc Program 97 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Global. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Competition 98",
+    "org": "Manufacturing Equity Fund 9",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "competition",
+    "amount_text": "Up to $140k",
+    "deadline": "2025-12-15",
+    "eligibility_text": "Women-led manufacturing companies based in Asia at Seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Manufacturing Women Founders Competition 98 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Asia. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Grant 99",
+    "org": "Retail Equity Fund 10",
+    "url": "https://www.wef.org/",
+    "funding_type": "grant",
+    "amount_text": "Up to $145k",
+    "deadline": "2025-12-16",
+    "eligibility_text": "Women-led retail companies based in Europe at Seed stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Retail Women Founders Grant 99 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Europe. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Competition 100",
+    "org": "AgriTech Equity Fund 11",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "competition",
+    "amount_text": "Up to $50k",
+    "deadline": "2025-12-17",
+    "eligibility_text": "Women-led agritech companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "AgriTech Women Founders Competition 100 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Competition 101",
+    "org": "Retail Equity Fund 12",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "competition",
+    "amount_text": "Up to $55k",
+    "deadline": "2025-12-18",
+    "eligibility_text": "Women-led retail companies based in Latin America at Idea stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Retail Women Founders Competition 101 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Latin America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Grant 102",
+    "org": "Climate Equity Fund 13",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "grant",
+    "amount_text": "Up to $60k",
+    "deadline": "2025-12-19",
+    "eligibility_text": "Women-led climate companies based in North America at Seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Climate Women Founders Grant 102 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in North America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Competition 103",
+    "org": "Community Equity Fund 14",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $65k",
+    "deadline": "2025-12-20",
+    "eligibility_text": "Women-led community companies based in Global at Series A stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Community Women Founders Competition 103 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Global. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Vc Program 104",
+    "org": "Climate Equity Fund 15",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "VC program",
+    "amount_text": "Up to $70k",
+    "deadline": "2025-12-21",
+    "eligibility_text": "Women-led climate companies based in Europe at Growth stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Climate Women Founders Vc Program 104 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Europe. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Vc Program 105",
+    "org": "Retail Equity Fund 1",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "VC program",
+    "amount_text": "Up to $75k",
+    "deadline": "2025-12-22",
+    "eligibility_text": "Women-led retail companies based in Asia at Growth stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Retail Women Founders Vc Program 105 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Asia. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Grant 106",
+    "org": "Climate Equity Fund 2",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "grant",
+    "amount_text": "Up to $80k",
+    "deadline": "2025-12-23",
+    "eligibility_text": "Women-led climate companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Climate Women Founders Grant 106 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Competition 107",
+    "org": "AI Equity Fund 3",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "competition",
+    "amount_text": "Up to $85k",
+    "deadline": "2025-12-24",
+    "eligibility_text": "Women-led ai companies based in Europe at Idea stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "AI Women Founders Competition 107 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Europe. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Competition 108",
+    "org": "Education Equity Fund 4",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "competition",
+    "amount_text": "Up to $90k",
+    "deadline": "2025-12-25",
+    "eligibility_text": "Women-led education companies based in Global at Seed stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Education Women Founders Competition 108 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Global. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Competition 109",
+    "org": "Climate Equity Fund 5",
+    "url": "https://www.wef.org/",
+    "funding_type": "competition",
+    "amount_text": "Up to $95k",
+    "deadline": "2025-12-26",
+    "eligibility_text": "Women-led climate companies based in North America at Growth stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Climate Women Founders Competition 109 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in North America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Vc Program 110",
+    "org": "Biotech Equity Fund 6",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "VC program",
+    "amount_text": "Up to $100k",
+    "deadline": "2025-12-27",
+    "eligibility_text": "Women-led biotech companies based in North America at Growth stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Biotech Women Founders Vc Program 110 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in North America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Vc Program 111",
+    "org": "Retail Equity Fund 7",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "VC program",
+    "amount_text": "Up to $105k",
+    "deadline": "2025-12-28",
+    "eligibility_text": "Women-led retail companies based in North America at Seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Retail Women Founders Vc Program 111 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in North America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Loan 112",
+    "org": "AgriTech Equity Fund 8",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "loan",
+    "amount_text": "Up to $110k",
+    "deadline": "2025-12-01",
+    "eligibility_text": "Women-led agritech companies based in Global at Growth stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "AgriTech Women Founders Loan 112 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Global. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Vc Program 113",
+    "org": "AgriTech Equity Fund 9",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "VC program",
+    "amount_text": "Up to $115k",
+    "deadline": "2025-12-02",
+    "eligibility_text": "Women-led agritech companies based in Asia at Series A stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "AgriTech Women Founders Vc Program 113 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Asia. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Loan 114",
+    "org": "Retail Equity Fund 10",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "loan",
+    "amount_text": "Up to $120k",
+    "deadline": "2025-12-03",
+    "eligibility_text": "Women-led retail companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Retail Women Founders Loan 114 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Competition 115",
+    "org": "FinTech Equity Fund 11",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "competition",
+    "amount_text": "Up to $125k",
+    "deadline": "2025-12-04",
+    "eligibility_text": "Women-led fintech companies based in Africa at Pre-seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "FinTech Women Founders Competition 115 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Africa. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Competition 116",
+    "org": "Biotech Equity Fund 12",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "competition",
+    "amount_text": "Up to $130k",
+    "deadline": "2025-12-05",
+    "eligibility_text": "Women-led biotech companies based in Latin America at Growth stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Biotech Women Founders Competition 116 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Latin America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Grant 117",
+    "org": "AI Equity Fund 13",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "grant",
+    "amount_text": "Up to $135k",
+    "deadline": "2025-12-06",
+    "eligibility_text": "Women-led ai companies based in North America at Seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "AI Women Founders Grant 117 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in North America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Loan 118",
+    "org": "AgriTech Equity Fund 14",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "loan",
+    "amount_text": "Up to $140k",
+    "deadline": "2025-12-07",
+    "eligibility_text": "Women-led agritech companies based in Asia at Idea stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "AgriTech Women Founders Loan 118 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Asia. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Competition 119",
+    "org": "Community Equity Fund 15",
+    "url": "https://www.wef.org/",
+    "funding_type": "competition",
+    "amount_text": "Up to $145k",
+    "deadline": "2025-12-08",
+    "eligibility_text": "Women-led community companies based in North America at Growth stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Community Women Founders Competition 119 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in North America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Loan 120",
+    "org": "Manufacturing Equity Fund 1",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "loan",
+    "amount_text": "Up to $50k",
+    "deadline": "2025-12-09",
+    "eligibility_text": "Women-led manufacturing companies based in Latin America at Series A stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Manufacturing Women Founders Loan 120 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Latin America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Loan 121",
+    "org": "Manufacturing Equity Fund 2",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "loan",
+    "amount_text": "Up to $55k",
+    "deadline": "2025-12-10",
+    "eligibility_text": "Women-led manufacturing companies based in Europe at Seed stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Manufacturing Women Founders Loan 121 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Europe. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Competition 122",
+    "org": "Community Equity Fund 3",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $60k",
+    "deadline": "2025-12-11",
+    "eligibility_text": "Women-led community companies based in Europe at Series A stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Community Women Founders Competition 122 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Europe. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Competition 123",
+    "org": "AgriTech Equity Fund 4",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $65k",
+    "deadline": "2025-12-12",
+    "eligibility_text": "Women-led agritech companies based in Global at Seed stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "AgriTech Women Founders Competition 123 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Global. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Competition 124",
+    "org": "AgriTech Equity Fund 5",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "competition",
+    "amount_text": "Up to $70k",
+    "deadline": "2025-12-13",
+    "eligibility_text": "Women-led agritech companies based in North America at Growth stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "AgriTech Women Founders Competition 124 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in North America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Loan 125",
+    "org": "Retail Equity Fund 6",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "loan",
+    "amount_text": "Up to $75k",
+    "deadline": "2025-12-14",
+    "eligibility_text": "Women-led retail companies based in Latin America at Pre-seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Retail Women Founders Loan 125 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Latin America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Competition 126",
+    "org": "Community Equity Fund 7",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "competition",
+    "amount_text": "Up to $80k",
+    "deadline": "2025-12-15",
+    "eligibility_text": "Women-led community companies based in North America at Growth stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Community Women Founders Competition 126 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in North America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Vc Program 127",
+    "org": "AI Equity Fund 8",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $85k",
+    "deadline": "2025-12-16",
+    "eligibility_text": "Women-led ai companies based in Asia at Seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "AI Women Founders Vc Program 127 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Asia. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Competition 128",
+    "org": "Health Equity Fund 9",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "competition",
+    "amount_text": "Up to $90k",
+    "deadline": "2025-12-17",
+    "eligibility_text": "Women-led health companies based in Europe at Seed stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Health Women Founders Competition 128 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Europe. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Loan 129",
+    "org": "Manufacturing Equity Fund 10",
+    "url": "https://www.wef.org/",
+    "funding_type": "loan",
+    "amount_text": "Up to $95k",
+    "deadline": "2025-12-18",
+    "eligibility_text": "Women-led manufacturing companies based in Europe at Series A stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Manufacturing Women Founders Loan 129 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Europe. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Loan 130",
+    "org": "Biotech Equity Fund 11",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "loan",
+    "amount_text": "Up to $100k",
+    "deadline": "2025-12-19",
+    "eligibility_text": "Women-led biotech companies based in Africa at Seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Biotech Women Founders Loan 130 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Africa. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Loan 131",
+    "org": "FinTech Equity Fund 12",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "loan",
+    "amount_text": "Up to $105k",
+    "deadline": "2025-12-20",
+    "eligibility_text": "Women-led fintech companies based in Latin America at Idea stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "FinTech Women Founders Loan 131 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Latin America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Grant 132",
+    "org": "Biotech Equity Fund 13",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "grant",
+    "amount_text": "Up to $110k",
+    "deadline": "2025-12-21",
+    "eligibility_text": "Women-led biotech companies based in Asia at Seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Biotech Women Founders Grant 132 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Asia. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Vc Program 133",
+    "org": "Manufacturing Equity Fund 14",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "VC program",
+    "amount_text": "Up to $115k",
+    "deadline": "2025-12-22",
+    "eligibility_text": "Women-led manufacturing companies based in Asia at Series A stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Manufacturing Women Founders Vc Program 133 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Asia. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Vc Program 134",
+    "org": "Health Equity Fund 15",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "VC program",
+    "amount_text": "Up to $120k",
+    "deadline": "2025-12-23",
+    "eligibility_text": "Women-led health companies based in Latin America at Pre-seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Health Women Founders Vc Program 134 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Latin America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Loan 135",
+    "org": "Manufacturing Equity Fund 1",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "loan",
+    "amount_text": "Up to $125k",
+    "deadline": "2025-12-24",
+    "eligibility_text": "Women-led manufacturing companies based in Latin America at Series A stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Manufacturing Women Founders Loan 135 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Latin America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Vc Program 136",
+    "org": "Biotech Equity Fund 2",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $130k",
+    "deadline": "2025-12-25",
+    "eligibility_text": "Women-led biotech companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Biotech Women Founders Vc Program 136 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Grant 137",
+    "org": "Community Equity Fund 3",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "grant",
+    "amount_text": "Up to $135k",
+    "deadline": "2025-12-26",
+    "eligibility_text": "Women-led community companies based in North America at Seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Community Women Founders Grant 137 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in North America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Vc Program 138",
+    "org": "Manufacturing Equity Fund 4",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $140k",
+    "deadline": "2025-12-27",
+    "eligibility_text": "Women-led manufacturing companies based in Global at Series A stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Manufacturing Women Founders Vc Program 138 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Global. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Grant 139",
+    "org": "Manufacturing Equity Fund 5",
+    "url": "https://www.wef.org/",
+    "funding_type": "grant",
+    "amount_text": "Up to $145k",
+    "deadline": "2025-12-28",
+    "eligibility_text": "Women-led manufacturing companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Manufacturing Women Founders Grant 139 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Grant 140",
+    "org": "Education Equity Fund 6",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "grant",
+    "amount_text": "Up to $50k",
+    "deadline": "2025-12-01",
+    "eligibility_text": "Women-led education companies based in Latin America at Growth stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Education Women Founders Grant 140 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Latin America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Grant 141",
+    "org": "Health Equity Fund 7",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "grant",
+    "amount_text": "Up to $55k",
+    "deadline": "2025-12-02",
+    "eligibility_text": "Women-led health companies based in Global at Seed stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Health Women Founders Grant 141 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Global. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Accelerator 142",
+    "org": "Climate Equity Fund 8",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $60k",
+    "deadline": "2025-12-03",
+    "eligibility_text": "Women-led climate companies based in Europe at Idea stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Climate Women Founders Accelerator 142 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Europe. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Competition 143",
+    "org": "Retail Equity Fund 9",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $65k",
+    "deadline": "2025-12-04",
+    "eligibility_text": "Women-led retail companies based in Africa at Growth stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Retail Women Founders Competition 143 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Africa. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Competition 144",
+    "org": "Education Equity Fund 10",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "competition",
+    "amount_text": "Up to $70k",
+    "deadline": "2025-12-05",
+    "eligibility_text": "Women-led education companies based in Africa at Seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Education Women Founders Competition 144 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Africa. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Vc Program 145",
+    "org": "Biotech Equity Fund 11",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "VC program",
+    "amount_text": "Up to $75k",
+    "deadline": "2025-12-06",
+    "eligibility_text": "Women-led biotech companies based in Europe at Growth stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Biotech Women Founders Vc Program 145 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Europe. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Loan 146",
+    "org": "Retail Equity Fund 12",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "loan",
+    "amount_text": "Up to $80k",
+    "deadline": "2025-12-07",
+    "eligibility_text": "Women-led retail companies based in Africa at Idea stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Retail Women Founders Loan 146 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Africa. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Loan 147",
+    "org": "Health Equity Fund 13",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "loan",
+    "amount_text": "Up to $85k",
+    "deadline": "2025-12-08",
+    "eligibility_text": "Women-led health companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Health Women Founders Loan 147 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Grant 148",
+    "org": "Community Equity Fund 14",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "grant",
+    "amount_text": "Up to $90k",
+    "deadline": "2025-12-09",
+    "eligibility_text": "Women-led community companies based in Europe at Series A stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Community Women Founders Grant 148 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Europe. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Accelerator 149",
+    "org": "Education Equity Fund 15",
+    "url": "https://www.wef.org/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $95k",
+    "deadline": "2025-12-10",
+    "eligibility_text": "Women-led education companies based in North America at Seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Education Women Founders Accelerator 149 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in North America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Vc Program 150",
+    "org": "Manufacturing Equity Fund 1",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "VC program",
+    "amount_text": "Up to $100k",
+    "deadline": "2025-12-11",
+    "eligibility_text": "Women-led manufacturing companies based in North America at Seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Manufacturing Women Founders Vc Program 150 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in North America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Loan 151",
+    "org": "Climate Equity Fund 2",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "loan",
+    "amount_text": "Up to $105k",
+    "deadline": "2025-12-12",
+    "eligibility_text": "Women-led climate companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Climate Women Founders Loan 151 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Grant 152",
+    "org": "Biotech Equity Fund 3",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "grant",
+    "amount_text": "Up to $110k",
+    "deadline": "2025-12-13",
+    "eligibility_text": "Women-led biotech companies based in North America at Idea stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Biotech Women Founders Grant 152 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in North America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Vc Program 153",
+    "org": "Health Equity Fund 4",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "VC program",
+    "amount_text": "Up to $115k",
+    "deadline": "2025-12-14",
+    "eligibility_text": "Women-led health companies based in Global at Series A stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Health Women Founders Vc Program 153 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Global. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Grant 154",
+    "org": "Climate Equity Fund 5",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "grant",
+    "amount_text": "Up to $120k",
+    "deadline": "2025-12-15",
+    "eligibility_text": "Women-led climate companies based in North America at Seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Climate Women Founders Grant 154 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in North America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Loan 155",
+    "org": "Climate Equity Fund 6",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "loan",
+    "amount_text": "Up to $125k",
+    "deadline": "2025-12-16",
+    "eligibility_text": "Women-led climate companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Climate Women Founders Loan 155 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Competition 156",
+    "org": "AgriTech Equity Fund 7",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "competition",
+    "amount_text": "Up to $130k",
+    "deadline": "2025-12-17",
+    "eligibility_text": "Women-led agritech companies based in Africa at Pre-seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "AgriTech Women Founders Competition 156 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Africa. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Loan 157",
+    "org": "Manufacturing Equity Fund 8",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "loan",
+    "amount_text": "Up to $135k",
+    "deadline": "2025-12-18",
+    "eligibility_text": "Women-led manufacturing companies based in Global at Series A stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Manufacturing Women Founders Loan 157 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Global. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Grant 158",
+    "org": "Biotech Equity Fund 9",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "grant",
+    "amount_text": "Up to $140k",
+    "deadline": "2025-12-19",
+    "eligibility_text": "Women-led biotech companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Biotech Women Founders Grant 158 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Vc Program 159",
+    "org": "AgriTech Equity Fund 10",
+    "url": "https://www.wef.org/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $145k",
+    "deadline": "2025-12-20",
+    "eligibility_text": "Women-led agritech companies based in Asia at Series A stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "AgriTech Women Founders Vc Program 159 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Asia. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Loan 160",
+    "org": "FinTech Equity Fund 11",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "loan",
+    "amount_text": "Up to $50k",
+    "deadline": "2025-12-21",
+    "eligibility_text": "Women-led fintech companies based in Global at Pre-seed stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "FinTech Women Founders Loan 160 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Global. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Vc Program 161",
+    "org": "Biotech Equity Fund 12",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "VC program",
+    "amount_text": "Up to $55k",
+    "deadline": "2025-12-22",
+    "eligibility_text": "Women-led biotech companies based in Africa at Idea stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Biotech Women Founders Vc Program 161 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Africa. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Competition 162",
+    "org": "Retail Equity Fund 13",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $60k",
+    "deadline": "2025-12-23",
+    "eligibility_text": "Women-led retail companies based in Latin America at Seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Retail Women Founders Competition 162 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Latin America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Grant 163",
+    "org": "AI Equity Fund 14",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "grant",
+    "amount_text": "Up to $65k",
+    "deadline": "2025-12-24",
+    "eligibility_text": "Women-led ai companies based in Asia at Pre-seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "AI Women Founders Grant 163 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Asia. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Loan 164",
+    "org": "AgriTech Equity Fund 15",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "loan",
+    "amount_text": "Up to $70k",
+    "deadline": "2025-12-25",
+    "eligibility_text": "Women-led agritech companies based in Africa at Pre-seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "AgriTech Women Founders Loan 164 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Africa. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Vc Program 165",
+    "org": "Manufacturing Equity Fund 1",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "VC program",
+    "amount_text": "Up to $75k",
+    "deadline": "2025-12-26",
+    "eligibility_text": "Women-led manufacturing companies based in Africa at Growth stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Manufacturing Women Founders Vc Program 165 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Africa. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Grant 166",
+    "org": "Health Equity Fund 2",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "grant",
+    "amount_text": "Up to $80k",
+    "deadline": "2025-12-27",
+    "eligibility_text": "Women-led health companies based in Latin America at Idea stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Health Women Founders Grant 166 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Latin America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Competition 167",
+    "org": "Health Equity Fund 3",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "competition",
+    "amount_text": "Up to $85k",
+    "deadline": "2025-12-28",
+    "eligibility_text": "Women-led health companies based in Latin America at Seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Health Women Founders Competition 167 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Latin America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Grant 168",
+    "org": "Community Equity Fund 4",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "grant",
+    "amount_text": "Up to $90k",
+    "deadline": "2025-12-01",
+    "eligibility_text": "Women-led community companies based in Asia at Idea stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Community Women Founders Grant 168 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Asia. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Accelerator 169",
+    "org": "Health Equity Fund 5",
+    "url": "https://www.wef.org/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $95k",
+    "deadline": "2025-12-02",
+    "eligibility_text": "Women-led health companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Health Women Founders Accelerator 169 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Accelerator 170",
+    "org": "FinTech Equity Fund 6",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $100k",
+    "deadline": "2025-12-03",
+    "eligibility_text": "Women-led fintech companies based in Europe at Idea stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "FinTech Women Founders Accelerator 170 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Europe. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Grant 171",
+    "org": "Manufacturing Equity Fund 7",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "grant",
+    "amount_text": "Up to $105k",
+    "deadline": "2025-12-04",
+    "eligibility_text": "Women-led manufacturing companies based in Latin America at Pre-seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Manufacturing Women Founders Grant 171 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Latin America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Grant 172",
+    "org": "Education Equity Fund 8",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "grant",
+    "amount_text": "Up to $110k",
+    "deadline": "2025-12-05",
+    "eligibility_text": "Women-led education companies based in Europe at Growth stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Education Women Founders Grant 172 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Europe. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Vc Program 173",
+    "org": "Manufacturing Equity Fund 9",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "VC program",
+    "amount_text": "Up to $115k",
+    "deadline": "2025-12-06",
+    "eligibility_text": "Women-led manufacturing companies based in North America at Seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Manufacturing Women Founders Vc Program 173 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in North America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Loan 174",
+    "org": "AI Equity Fund 10",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "loan",
+    "amount_text": "Up to $120k",
+    "deadline": "2025-12-07",
+    "eligibility_text": "Women-led ai companies based in Global at Idea stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "AI Women Founders Loan 174 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Global. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Competition 175",
+    "org": "Community Equity Fund 11",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "competition",
+    "amount_text": "Up to $125k",
+    "deadline": "2025-12-08",
+    "eligibility_text": "Women-led community companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Community Women Founders Competition 175 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Loan 176",
+    "org": "Biotech Equity Fund 12",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "loan",
+    "amount_text": "Up to $130k",
+    "deadline": "2025-12-09",
+    "eligibility_text": "Women-led biotech companies based in Africa at Seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Biotech Women Founders Loan 176 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Africa. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Vc Program 177",
+    "org": "Education Equity Fund 13",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $135k",
+    "deadline": "2025-12-10",
+    "eligibility_text": "Women-led education companies based in Latin America at Series A stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Education Women Founders Vc Program 177 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Latin America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Vc Program 178",
+    "org": "Retail Equity Fund 14",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $140k",
+    "deadline": "2025-12-11",
+    "eligibility_text": "Women-led retail companies based in Global at Idea stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Retail Women Founders Vc Program 178 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Global. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Grant 179",
+    "org": "Biotech Equity Fund 15",
+    "url": "https://www.wef.org/",
+    "funding_type": "grant",
+    "amount_text": "Up to $145k",
+    "deadline": "2025-12-12",
+    "eligibility_text": "Women-led biotech companies based in Asia at Pre-seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Biotech Women Founders Grant 179 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Asia. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Vc Program 180",
+    "org": "Biotech Equity Fund 1",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "VC program",
+    "amount_text": "Up to $50k",
+    "deadline": "2025-12-13",
+    "eligibility_text": "Women-led biotech companies based in Asia at Seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Biotech Women Founders Vc Program 180 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Asia. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Grant 181",
+    "org": "AgriTech Equity Fund 2",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "grant",
+    "amount_text": "Up to $55k",
+    "deadline": "2025-12-14",
+    "eligibility_text": "Women-led agritech companies based in North America at Seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "AgriTech Women Founders Grant 181 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in North America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Competition 182",
+    "org": "Manufacturing Equity Fund 3",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $60k",
+    "deadline": "2025-12-15",
+    "eligibility_text": "Women-led manufacturing companies based in North America at Growth stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Manufacturing Women Founders Competition 182 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in North America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Competition 183",
+    "org": "Retail Equity Fund 4",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $65k",
+    "deadline": "2025-12-16",
+    "eligibility_text": "Women-led retail companies based in Asia at Growth stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Retail Women Founders Competition 183 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Asia. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Competition 184",
+    "org": "Climate Equity Fund 5",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "competition",
+    "amount_text": "Up to $70k",
+    "deadline": "2025-12-17",
+    "eligibility_text": "Women-led climate companies based in Latin America at Pre-seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Climate Women Founders Competition 184 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Latin America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Vc Program 185",
+    "org": "FinTech Equity Fund 6",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "VC program",
+    "amount_text": "Up to $75k",
+    "deadline": "2025-12-18",
+    "eligibility_text": "Women-led fintech companies based in North America at Seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "FinTech Women Founders Vc Program 185 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in North America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Vc Program 186",
+    "org": "Biotech Equity Fund 7",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $80k",
+    "deadline": "2025-12-19",
+    "eligibility_text": "Women-led biotech companies based in Africa at Seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Biotech Women Founders Vc Program 186 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Africa. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Competition 187",
+    "org": "Education Equity Fund 8",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "competition",
+    "amount_text": "Up to $85k",
+    "deadline": "2025-12-20",
+    "eligibility_text": "Women-led education companies based in Asia at Growth stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Education Women Founders Competition 187 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Asia. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Accelerator 188",
+    "org": "Climate Equity Fund 9",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $90k",
+    "deadline": "2025-12-21",
+    "eligibility_text": "Women-led climate companies based in North America at Growth stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Climate Women Founders Accelerator 188 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in North America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Grant 189",
+    "org": "AgriTech Equity Fund 10",
+    "url": "https://www.wef.org/",
+    "funding_type": "grant",
+    "amount_text": "Up to $95k",
+    "deadline": "2025-12-22",
+    "eligibility_text": "Women-led agritech companies based in Latin America at Pre-seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "AgriTech Women Founders Grant 189 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Latin America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Vc Program 190",
+    "org": "Climate Equity Fund 11",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "VC program",
+    "amount_text": "Up to $100k",
+    "deadline": "2025-12-23",
+    "eligibility_text": "Women-led climate companies based in Global at Idea stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Climate Women Founders Vc Program 190 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Global. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Competition 191",
+    "org": "Climate Equity Fund 12",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "competition",
+    "amount_text": "Up to $105k",
+    "deadline": "2025-12-24",
+    "eligibility_text": "Women-led climate companies based in Asia at Growth stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Climate Women Founders Competition 191 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Asia. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Vc Program 192",
+    "org": "AgriTech Equity Fund 13",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "VC program",
+    "amount_text": "Up to $110k",
+    "deadline": "2025-12-25",
+    "eligibility_text": "Women-led agritech companies based in Global at Idea stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "AgriTech Women Founders Vc Program 192 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Global. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Loan 193",
+    "org": "Health Equity Fund 14",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "loan",
+    "amount_text": "Up to $115k",
+    "deadline": "2025-12-26",
+    "eligibility_text": "Women-led health companies based in North America at Idea stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Health Women Founders Loan 193 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in North America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Vc Program 194",
+    "org": "Health Equity Fund 15",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "VC program",
+    "amount_text": "Up to $120k",
+    "deadline": "2025-12-27",
+    "eligibility_text": "Women-led health companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Health Women Founders Vc Program 194 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Competition 195",
+    "org": "Climate Equity Fund 1",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "competition",
+    "amount_text": "Up to $125k",
+    "deadline": "2025-12-28",
+    "eligibility_text": "Women-led climate companies based in Africa at Growth stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Climate Women Founders Competition 195 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Africa. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Vc Program 196",
+    "org": "Manufacturing Equity Fund 2",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $130k",
+    "deadline": "2025-12-01",
+    "eligibility_text": "Women-led manufacturing companies based in Asia at Idea stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Manufacturing Women Founders Vc Program 196 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Asia. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Loan 197",
+    "org": "FinTech Equity Fund 3",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "loan",
+    "amount_text": "Up to $135k",
+    "deadline": "2025-12-02",
+    "eligibility_text": "Women-led fintech companies based in North America at Growth stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "FinTech Women Founders Loan 197 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in North America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Competition 198",
+    "org": "FinTech Equity Fund 4",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "competition",
+    "amount_text": "Up to $140k",
+    "deadline": "2025-12-03",
+    "eligibility_text": "Women-led fintech companies based in Asia at Pre-seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "FinTech Women Founders Competition 198 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Asia. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Loan 199",
+    "org": "Community Equity Fund 5",
+    "url": "https://www.wef.org/",
+    "funding_type": "loan",
+    "amount_text": "Up to $145k",
+    "deadline": "2025-12-04",
+    "eligibility_text": "Women-led community companies based in Europe at Pre-seed stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Community Women Founders Loan 199 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Europe. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Competition 200",
+    "org": "AI Equity Fund 6",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "competition",
+    "amount_text": "Up to $50k",
+    "deadline": "2025-12-05",
+    "eligibility_text": "Women-led ai companies based in Latin America at Idea stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "AI Women Founders Competition 200 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Latin America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Vc Program 201",
+    "org": "AI Equity Fund 7",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "VC program",
+    "amount_text": "Up to $55k",
+    "deadline": "2025-12-06",
+    "eligibility_text": "Women-led ai companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "AI Women Founders Vc Program 201 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Competition 202",
+    "org": "Health Equity Fund 8",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $60k",
+    "deadline": "2025-12-07",
+    "eligibility_text": "Women-led health companies based in Europe at Series A stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Health Women Founders Competition 202 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Europe. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Competition 203",
+    "org": "Climate Equity Fund 9",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $65k",
+    "deadline": "2025-12-08",
+    "eligibility_text": "Women-led climate companies based in Europe at Growth stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Climate Women Founders Competition 203 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Europe. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Competition 204",
+    "org": "Community Equity Fund 10",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "competition",
+    "amount_text": "Up to $70k",
+    "deadline": "2025-12-09",
+    "eligibility_text": "Women-led community companies based in Europe at Seed stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Community Women Founders Competition 204 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Europe. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Grant 205",
+    "org": "AI Equity Fund 11",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "grant",
+    "amount_text": "Up to $75k",
+    "deadline": "2025-12-10",
+    "eligibility_text": "Women-led ai companies based in Asia at Seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "AI Women Founders Grant 205 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Asia. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Competition 206",
+    "org": "FinTech Equity Fund 12",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "competition",
+    "amount_text": "Up to $80k",
+    "deadline": "2025-12-11",
+    "eligibility_text": "Women-led fintech companies based in Global at Series A stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "FinTech Women Founders Competition 206 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Global. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Loan 207",
+    "org": "FinTech Equity Fund 13",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "loan",
+    "amount_text": "Up to $85k",
+    "deadline": "2025-12-12",
+    "eligibility_text": "Women-led fintech companies based in North America at Series A stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "FinTech Women Founders Loan 207 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in North America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Vc Program 208",
+    "org": "Community Equity Fund 14",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $90k",
+    "deadline": "2025-12-13",
+    "eligibility_text": "Women-led community companies based in Global at Idea stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Community Women Founders Vc Program 208 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Global. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Competition 209",
+    "org": "Community Equity Fund 15",
+    "url": "https://www.wef.org/",
+    "funding_type": "competition",
+    "amount_text": "Up to $95k",
+    "deadline": "2025-12-14",
+    "eligibility_text": "Women-led community companies based in Latin America at Pre-seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Community Women Founders Competition 209 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Latin America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Loan 210",
+    "org": "Health Equity Fund 1",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "loan",
+    "amount_text": "Up to $100k",
+    "deadline": "2025-12-15",
+    "eligibility_text": "Women-led health companies based in Latin America at Seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Health Women Founders Loan 210 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Latin America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AgriTech Women Founders Accelerator 211",
+    "org": "AgriTech Equity Fund 2",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $105k",
+    "deadline": "2025-12-16",
+    "eligibility_text": "Women-led agritech companies based in Asia at Series A stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "AgriTech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "AgriTech Women Founders Accelerator 211 supports founders building in AgriTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led agritech startups in Asia. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Accelerator 212",
+    "org": "Health Equity Fund 3",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $110k",
+    "deadline": "2025-12-17",
+    "eligibility_text": "Women-led health companies based in North America at Pre-seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Health Women Founders Accelerator 212 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in North America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Competition 213",
+    "org": "Biotech Equity Fund 4",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $115k",
+    "deadline": "2025-12-18",
+    "eligibility_text": "Women-led biotech companies based in North America at Idea stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Biotech Women Founders Competition 213 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in North America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Grant 214",
+    "org": "Health Equity Fund 5",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "grant",
+    "amount_text": "Up to $120k",
+    "deadline": "2025-12-19",
+    "eligibility_text": "Women-led health companies based in North America at Growth stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Health Women Founders Grant 214 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in North America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Accelerator 215",
+    "org": "Community Equity Fund 6",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $125k",
+    "deadline": "2025-12-20",
+    "eligibility_text": "Women-led community companies based in Africa at Pre-seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Community Women Founders Accelerator 215 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Africa. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Accelerator 216",
+    "org": "Manufacturing Equity Fund 7",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $130k",
+    "deadline": "2025-12-21",
+    "eligibility_text": "Women-led manufacturing companies based in Europe at Idea stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Manufacturing Women Founders Accelerator 216 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Europe. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Accelerator 217",
+    "org": "Community Equity Fund 8",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $135k",
+    "deadline": "2025-12-22",
+    "eligibility_text": "Women-led community companies based in Global at Growth stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Community Women Founders Accelerator 217 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Global. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Vc Program 218",
+    "org": "Manufacturing Equity Fund 9",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $140k",
+    "deadline": "2025-12-23",
+    "eligibility_text": "Women-led manufacturing companies based in Africa at Pre-seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Manufacturing Women Founders Vc Program 218 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Africa. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Grant 219",
+    "org": "AI Equity Fund 10",
+    "url": "https://www.wef.org/",
+    "funding_type": "grant",
+    "amount_text": "Up to $145k",
+    "deadline": "2025-12-24",
+    "eligibility_text": "Women-led ai companies based in Asia at Seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "AI Women Founders Grant 219 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Asia. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Accelerator 220",
+    "org": "Biotech Equity Fund 11",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $50k",
+    "deadline": "2025-12-25",
+    "eligibility_text": "Women-led biotech companies based in Latin America at Series A stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Biotech Women Founders Accelerator 220 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Latin America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Competition 221",
+    "org": "Climate Equity Fund 12",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "competition",
+    "amount_text": "Up to $55k",
+    "deadline": "2025-12-26",
+    "eligibility_text": "Women-led climate companies based in Asia at Seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Climate Women Founders Competition 221 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Asia. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Grant 222",
+    "org": "Education Equity Fund 13",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "grant",
+    "amount_text": "Up to $60k",
+    "deadline": "2025-12-27",
+    "eligibility_text": "Women-led education companies based in Latin America at Seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Education Women Founders Grant 222 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Latin America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Competition 223",
+    "org": "Biotech Equity Fund 14",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $65k",
+    "deadline": "2025-12-28",
+    "eligibility_text": "Women-led biotech companies based in Africa at Idea stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Biotech Women Founders Competition 223 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Africa. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Competition 224",
+    "org": "Climate Equity Fund 15",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "competition",
+    "amount_text": "Up to $70k",
+    "deadline": "2025-12-01",
+    "eligibility_text": "Women-led climate companies based in Latin America at Pre-seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Climate Women Founders Competition 224 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Latin America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Grant 225",
+    "org": "AI Equity Fund 1",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "grant",
+    "amount_text": "Up to $75k",
+    "deadline": "2025-12-02",
+    "eligibility_text": "Women-led ai companies based in Europe at Growth stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "AI Women Founders Grant 225 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Europe. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Grant 226",
+    "org": "Biotech Equity Fund 2",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "grant",
+    "amount_text": "Up to $80k",
+    "deadline": "2025-12-03",
+    "eligibility_text": "Women-led biotech companies based in Asia at Pre-seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Biotech Women Founders Grant 226 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Asia. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Vc Program 227",
+    "org": "Retail Equity Fund 3",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $85k",
+    "deadline": "2025-12-04",
+    "eligibility_text": "Women-led retail companies based in Latin America at Pre-seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Retail Women Founders Vc Program 227 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Latin America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Vc Program 228",
+    "org": "Retail Equity Fund 4",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "VC program",
+    "amount_text": "Up to $90k",
+    "deadline": "2025-12-05",
+    "eligibility_text": "Women-led retail companies based in Global at Series A stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Retail Women Founders Vc Program 228 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Global. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Competition 229",
+    "org": "Biotech Equity Fund 5",
+    "url": "https://www.wef.org/",
+    "funding_type": "competition",
+    "amount_text": "Up to $95k",
+    "deadline": "2025-12-06",
+    "eligibility_text": "Women-led biotech companies based in Global at Idea stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Biotech Women Founders Competition 229 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Global. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Education Women Founders Accelerator 230",
+    "org": "Education Equity Fund 6",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $100k",
+    "deadline": "2025-12-07",
+    "eligibility_text": "Women-led education companies based in Latin America at Growth stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Education"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Education Women Founders Accelerator 230 supports founders building in Education with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led education startups in Latin America. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Grant 231",
+    "org": "Retail Equity Fund 7",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "grant",
+    "amount_text": "Up to $105k",
+    "deadline": "2025-12-08",
+    "eligibility_text": "Women-led retail companies based in Africa at Seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Retail Women Founders Grant 231 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Africa. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Competition 232",
+    "org": "Biotech Equity Fund 8",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "competition",
+    "amount_text": "Up to $110k",
+    "deadline": "2025-12-09",
+    "eligibility_text": "Women-led biotech companies based in Latin America at Pre-seed stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Biotech Women Founders Competition 232 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Latin America. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Grant 233",
+    "org": "Manufacturing Equity Fund 9",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "grant",
+    "amount_text": "Up to $115k",
+    "deadline": "2025-12-10",
+    "eligibility_text": "Women-led manufacturing companies based in Latin America at Series A stage.",
+    "regions": [
+      "Latin America"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Manufacturing Women Founders Grant 233 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Latin America. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Vc Program 234",
+    "org": "Climate Equity Fund 10",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "VC program",
+    "amount_text": "Up to $120k",
+    "deadline": "2025-12-11",
+    "eligibility_text": "Women-led climate companies based in Asia at Series A stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Climate Women Founders Vc Program 234 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Asia. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Competition 235",
+    "org": "Manufacturing Equity Fund 11",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "competition",
+    "amount_text": "Up to $125k",
+    "deadline": "2025-12-12",
+    "eligibility_text": "Women-led manufacturing companies based in Global at Idea stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Manufacturing Women Founders Competition 235 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Global. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Health Women Founders Loan 236",
+    "org": "Health Equity Fund 12",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "loan",
+    "amount_text": "Up to $130k",
+    "deadline": "2025-12-13",
+    "eligibility_text": "Women-led health companies based in Europe at Seed stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Health"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Health Women Founders Loan 236 supports founders building in Health with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led health startups in Europe. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Biotech Women Founders Grant 237",
+    "org": "Biotech Equity Fund 13",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "grant",
+    "amount_text": "Up to $135k",
+    "deadline": "2025-12-14",
+    "eligibility_text": "Women-led biotech companies based in Asia at Pre-seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Biotech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "Biotech Women Founders Grant 237 supports founders building in Biotech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led biotech startups in Asia. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Grant 238",
+    "org": "AI Equity Fund 14",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "grant",
+    "amount_text": "Up to $140k",
+    "deadline": "2025-12-15",
+    "eligibility_text": "Women-led ai companies based in Global at Pre-seed stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "AI Women Founders Grant 238 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Global. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Loan 239",
+    "org": "FinTech Equity Fund 15",
+    "url": "https://www.wef.org/",
+    "funding_type": "loan",
+    "amount_text": "Up to $145k",
+    "deadline": "2025-12-16",
+    "eligibility_text": "Women-led fintech companies based in North America at Seed stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "FinTech Women Founders Loan 239 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in North America. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Loan 240",
+    "org": "Manufacturing Equity Fund 1",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "loan",
+    "amount_text": "Up to $50k",
+    "deadline": "2025-12-17",
+    "eligibility_text": "Women-led manufacturing companies based in Europe at Growth stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Manufacturing Women Founders Loan 240 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Europe. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Competition 241",
+    "org": "Manufacturing Equity Fund 2",
+    "url": "https://www.ycombinator.com/apply",
+    "funding_type": "competition",
+    "amount_text": "Up to $55k",
+    "deadline": "2025-12-18",
+    "eligibility_text": "Women-led manufacturing companies based in Asia at Series A stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "Manufacturing Women Founders Competition 241 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Asia. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Grant 242",
+    "org": "FinTech Equity Fund 3",
+    "url": "https://www.f6s.com/programs",
+    "funding_type": "grant",
+    "amount_text": "Up to $60k",
+    "deadline": "2025-12-19",
+    "eligibility_text": "Women-led fintech companies based in Europe at Idea stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "FinTech Women Founders Grant 242 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Europe. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Vc Program 243",
+    "org": "AI Equity Fund 4",
+    "url": "https://www.masschallenge.org/programs",
+    "funding_type": "VC program",
+    "amount_text": "Up to $65k",
+    "deadline": "2025-12-20",
+    "eligibility_text": "Women-led ai companies based in Global at Pre-seed stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "AI Women Founders Vc Program 243 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Global. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "AI Women Founders Loan 244",
+    "org": "AI Equity Fund 5",
+    "url": "https://techstars.com/accelerators",
+    "funding_type": "loan",
+    "amount_text": "Up to $70k",
+    "deadline": "2025-12-21",
+    "eligibility_text": "Women-led ai companies based in Asia at Series A stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "AI"
+    ],
+    "stage_fit": [
+      "Series A"
+    ],
+    "description": "AI Women Founders Loan 244 supports founders building in AI with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led ai startups in Asia. Focus on Series A stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "FinTech Women Founders Loan 245",
+    "org": "FinTech Equity Fund 6",
+    "url": "https://www.unwomen.org/en/how-we-work/grants",
+    "funding_type": "loan",
+    "amount_text": "Up to $75k",
+    "deadline": "2025-12-22",
+    "eligibility_text": "Women-led fintech companies based in Asia at Pre-seed stage.",
+    "regions": [
+      "Asia"
+    ],
+    "industries": [
+      "FinTech"
+    ],
+    "stage_fit": [
+      "Pre-seed"
+    ],
+    "description": "FinTech Women Founders Loan 245 supports founders building in FinTech with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led fintech startups in Asia. Focus on Pre-seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Climate Women Founders Loan 246",
+    "org": "Climate Equity Fund 7",
+    "url": "https://www.globalinnovationfund.org/",
+    "funding_type": "loan",
+    "amount_text": "Up to $80k",
+    "deadline": "2025-12-23",
+    "eligibility_text": "Women-led climate companies based in Europe at Seed stage.",
+    "regions": [
+      "Europe"
+    ],
+    "industries": [
+      "Climate"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Climate Women Founders Loan 246 supports founders building in Climate with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led climate startups in Europe. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Manufacturing Women Founders Competition 247",
+    "org": "Manufacturing Equity Fund 8",
+    "url": "https://www.cartierwomensinitiative.com/",
+    "funding_type": "competition",
+    "amount_text": "Up to $85k",
+    "deadline": "2025-12-24",
+    "eligibility_text": "Women-led manufacturing companies based in Africa at Growth stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Manufacturing"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Manufacturing Women Founders Competition 247 supports founders building in Manufacturing with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led manufacturing startups in Africa. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Accelerator 248",
+    "org": "Community Equity Fund 9",
+    "url": "https://www.goldmansachs.com/citizenship/10000women/",
+    "funding_type": "accelerator",
+    "amount_text": "Up to $90k",
+    "deadline": "2025-12-25",
+    "eligibility_text": "Women-led community companies based in Global at Growth stage.",
+    "regions": [
+      "Global"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Growth"
+    ],
+    "description": "Community Women Founders Accelerator 248 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in Global. Focus on Growth stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Retail Women Founders Loan 249",
+    "org": "Retail Equity Fund 10",
+    "url": "https://www.wef.org/",
+    "funding_type": "loan",
+    "amount_text": "Up to $95k",
+    "deadline": "2025-12-26",
+    "eligibility_text": "Women-led retail companies based in Africa at Seed stage.",
+    "regions": [
+      "Africa"
+    ],
+    "industries": [
+      "Retail"
+    ],
+    "stage_fit": [
+      "Seed"
+    ],
+    "description": "Retail Women Founders Loan 249 supports founders building in Retail with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led retail startups in Africa. Focus on Seed stage teams with community impact.",
+    "source_name": "seed_dataset"
+  },
+  {
+    "title": "Community Women Founders Loan 250",
+    "org": "Community Equity Fund 11",
+    "url": "https://www.sba.gov/funding-programs/grants",
+    "funding_type": "loan",
+    "amount_text": "Up to $100k",
+    "deadline": "2025-12-27",
+    "eligibility_text": "Women-led community companies based in North America at Idea stage.",
+    "regions": [
+      "North America"
+    ],
+    "industries": [
+      "Community"
+    ],
+    "stage_fit": [
+      "Idea"
+    ],
+    "description": "Community Women Founders Loan 250 supports founders building in Community with mentorship and non-dilutive capital.",
+    "raw_text": "Eligible women-led community startups in North America. Focus on Idea stage teams with community impact.",
+    "source_name": "seed_dataset"
+  }
+]
