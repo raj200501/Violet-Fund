@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.routers import applications, auth, labeling, opportunities, profile
+from app.routers import applications, auth, copilot, labeling, opportunities, profile
 
 app = FastAPI(title="VioletFund API")
 
@@ -19,6 +19,7 @@ app.include_router(profile.router)
 app.include_router(opportunities.router)
 app.include_router(applications.router)
 app.include_router(labeling.router)
+app.include_router(copilot.router)
 
 
 @app.get("/")

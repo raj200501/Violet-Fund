@@ -24,3 +24,19 @@ def get_current_user(
     if not user:
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="User not found")
     return user
+
+
+def get_current_user_optional(
+    session: Session = Depends(get_session),
+    access_token: str | None = Cookie(default=None),
+) -> User | None:
+    if not access_token:
+        return None
+    try:
+        payload = jwt.decode(access_token, settings.jwt_secret, algorithms=[settings.jwt_algorithm])
+        email: str | None = payload.get("sub")
+    except JWTError:
+        return None
+    if not email:
+        return None
+    return session.exec(select(User).where(User.email == email)).first()

@@ -9,6 +9,7 @@ import ThemeToggle from "./ThemeToggle";
 
 const navItems = [
   { label: "Dashboard", href: "/dashboard" },
+  { label: "Copilot", href: "/copilot" },
   { label: "Opportunities", href: "/opportunities" },
   { label: "Tracker", href: "/tracker" },
   { label: "Verify & Improve", href: "/labeling" },
@@ -19,10 +20,33 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
   const router = useRouter();
   const pathname = usePathname();
   const [searchValue, setSearchValue] = useState("");
+  const [notifications] = useState([
+    {
+      title: "Copilot analysis complete",
+      description: "Aurora Women in Climate Grant now has evidence snippets.",
+      time: "2m ago"
+    },
+    {
+      title: "Deadline approaching",
+      description: "Catalyst Women in Tech closes in 8 days.",
+      time: "Today"
+    },
+    {
+      title: "Tracker updated",
+      description: "Two tasks moved to In Progress.",
+      time: "Yesterday"
+    },
+    {
+      title: "New opportunity found",
+      description: "3 new climate grants added to your queue.",
+      time: "This week"
+    }
+  ]);
 
   const commandItems = useMemo(
     () => [
       { label: "Dashboard", onSelect: () => router.push("/dashboard") },
+      { label: "Copilot", onSelect: () => router.push("/copilot") },
       { label: "Opportunities", onSelect: () => router.push("/opportunities") },
       { label: "Tracker", onSelect: () => router.push("/tracker") },
       { label: "Profile", onSelect: () => router.push("/profile") },
@@ -74,9 +98,33 @@ export default function AppShell({ children }: { children: React.ReactNode }) {
           </div>
           <div className="flex items-center gap-3">
             <ThemeToggle />
-            <Button variant="ghost" size="sm">
-              Notifications
-            </Button>
+            <Popover
+              trigger={
+                <Button variant="ghost" size="sm">
+                  Notifications
+                  <Badge variant="info" className="ml-2">
+                    {notifications.length}
+                  </Badge>
+                </Button>
+              }
+            >
+              <div className="space-y-3">
+                <p className="text-xs font-semibold uppercase tracking-[0.2em] text-[var(--vf-ink-500)]">
+                  Recent activity
+                </p>
+                <div className="space-y-3">
+                  {notifications.map((item) => (
+                    <div key={item.title} className="space-y-1">
+                      <p className="text-sm font-semibold text-[var(--vf-ink-900)]">{item.title}</p>
+                      <p className="text-xs text-[var(--vf-ink-600)]">{item.description}</p>
+                      <p className="text-[10px] uppercase tracking-[0.2em] text-[var(--vf-ink-400)]">
+                        {item.time}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            </Popover>
             <Avatar name="Morgan Lee" size="sm" status="online" />
           </div>
         </div>

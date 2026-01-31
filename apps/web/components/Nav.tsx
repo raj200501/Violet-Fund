@@ -16,6 +16,9 @@ export default function Nav() {
         <Link href="/dashboard" className="hidden text-sm md:block">
           Product
         </Link>
+        <Link href="/copilot" className="hidden text-sm md:block">
+          Copilot
+        </Link>
         <Link href="/tracker" className="hidden text-sm md:block">
           Tracker
         </Link>

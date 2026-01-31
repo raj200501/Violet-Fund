@@ -21,6 +21,26 @@ test("key flows do not throw client errors", async ({ page }) => {
   await page.getByLabel("Password").fill("pass123");
   await page.getByRole("button", { name: /create account/i }).click();
 
+  await page.goto("/copilot");
+  await page.getByRole("button", { name: /paste text/i }).click();
+  await page.getByLabel("Paste raw text").fill(
+    "Seed-stage grant for women-led climate founders in North America. Deadline Feb 12, 2026."
+  );
+  await page.getByRole("button", { name: /^analyze$/i }).click();
+  const generatePlanButton = page.getByRole("button", { name: /generate plan/i }).first();
+  if (await generatePlanButton.count()) {
+    await generatePlanButton.click();
+  }
+  const copyEmailButton = page.getByRole("button", { name: /copy outreach email/i }).first();
+  if (await copyEmailButton.count()) {
+    await copyEmailButton.click();
+  }
+  const addToTrackerButton = page.getByRole("button", { name: /add to tracker/i }).first();
+  if (await addToTrackerButton.count()) {
+    await addToTrackerButton.click();
+  }
+  await page.goto("/tracker");
+
   await page.goto("/profile");
   await page.getByLabel("Industry").fill("Climate");
   await page.getByLabel("Stage").fill("Seed");
@@ -63,6 +83,18 @@ test("key flows do not throw client errors", async ({ page }) => {
   const openButton = page.getByRole("button", { name: /view detail/i }).first();
   if (await openButton.count()) {
     await openButton.click();
+  }
+  const verifyButton = page.getByRole("button", { name: /verify/i }).first();
+  if (await verifyButton.count()) {
+    await verifyButton.click();
+  }
+  const improveButton = page.getByRole("button", { name: /improve/i }).first();
+  if (await improveButton.count()) {
+    await improveButton.click();
+    const closePlanButton = page.getByRole("button", { name: /close/i }).first();
+    if (await closePlanButton.count()) {
+      await closePlanButton.click();
+    }
   }
 
   await page.goto("/labeling");

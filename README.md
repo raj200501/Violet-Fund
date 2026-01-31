@@ -44,29 +44,28 @@ flowchart TD
 ## Product walkthrough (3-minute demo script)
 
 1. **Landing page**
-   - Narration: "Funding should not be a barrier to women building companies. VioletFund is your verified funding copilot."
-   - Click: **Start your funding plan**.
+   - Narration: "Paste a grant link. We extract eligibility, highlight evidence, and generate a to-do plan."
+   - Click: **Start your funding plan** or go to **Copilot**.
 
-2. **Sign up + Profile wizard**
-   - Enter a demo email/password and submit.
-   - Fill in industry, stage, location, keywords, and goals.
-   - Narration: "These fields power explainable matching and filters."
-
-3. **Dashboard recommendations**
-   - Navigate to **Dashboard**.
-   - Narration: "Each result shows similarity score, explicit reasons, and evidence snippets from the source content."
-
-4. **Opportunity detail**
-   - Click into an opportunity.
-   - Narration: "Details include eligibility and a deterministic application plan."
+2. **Copilot (wow moment)**
+   - Paste a funding URL (or raw text) and click **Analyze**.
+   - Narration: "We extract structured fields, show evidence snippets, and run trust checks."
+   - Click **Generate plan** to reveal the staged checklist + outreach drafts.
    - Click **Add to tracker**.
 
-5. **Application tracker**
+3. **Opportunity detail**
+   - Click **View detail** from Copilot or open any opportunity.
+   - Click **Verify** to refresh checks.
+   - Click **Improve** to open the plan + drafts.
+   - Narration: "What the AI did is fully transparent, and corrections update evidence."
+
+4. **Application tracker**
    - Open **Tracker**.
+   - Show tasks and due dates created by Copilot.
    - Drag the card across stages.
    - Narration: "Your pipeline moves across Saved → Planned → In Progress, etc."
 
-6. **Verify & Improve**
+5. **Verify & Improve**
    - Open **Verify & Improve**.
    - Correct missing fields, submit.
    - Narration: "We recompute embeddings and show the rank improvement immediately."

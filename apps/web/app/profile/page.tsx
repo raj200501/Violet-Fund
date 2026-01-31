@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import { useRouter } from "next/navigation";
 
 import AppShell from "@/components/AppShell";
 import { apiFetch, safeErrorMessage } from "@/lib/api";
@@ -13,6 +14,7 @@ import {
   CardHeader,
   CardTitle,
   ConfidenceMeter,
+  Dialog,
   Input,
   PageHeader,
   ProgressBar,
@@ -30,6 +32,7 @@ const steps = [
 ];
 
 export default function ProfilePage() {
+  const router = useRouter();
   const [form, setForm] = useState({
     industry: "",
     stage: "",
@@ -48,6 +51,7 @@ export default function ProfilePage() {
   const [statusTone, setStatusTone] = useState<"success" | "warning" | "info">("info");
   const [error, setError] = useState<string | null>(null);
   const [currentStep, setCurrentStep] = useState(0);
+  const [showInvite, setShowInvite] = useState(false);
 
   useEffect(() => {
     const load = async () => {
@@ -107,7 +111,11 @@ export default function ProfilePage() {
           title="Founder profile & recommendation quality"
           description="Multi-step profile builder with autosave and measurable impact on recommendations."
           badges={["Autosave", "Guided steps", "Quality meter"]}
-          action={<Button size="sm">Invite collaborator</Button>}
+          action={
+            <Button size="sm" onClick={() => setShowInvite(true)}>
+              Invite collaborator
+            </Button>
+          }
         />
 
         {error ? <StatusBanner tone="warning" title="Demo profile enabled" description={error} /> : null}
@@ -263,9 +271,59 @@ export default function ProfilePage() {
 
           <div className="flex flex-wrap items-center gap-3">
             <Button type="submit">Save profile</Button>
-            <Button variant="outline" type="button">Preview recommendations</Button>
+            <Button variant="outline" type="button" onClick={() => router.push("/dashboard")}>
+              Preview recommendations
+            </Button>
           </div>
         </form>
+
+        {showInvite ? (
+          <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 p-6">
+            <Dialog
+              title="Invite collaborator"
+              description="Share a link to bring teammates into this workspace."
+              footer={
+                <Button variant="ghost" size="sm" onClick={() => setShowInvite(false)}>
+                  Close
+                </Button>
+              }
+            >
+              <Surface tone="default" className="space-y-3 p-4">
+                <Input
+                  label="Shareable link"
+                  value={`${typeof window !== "undefined" ? window.location.origin : "https://app.violetfund.com"}/invite/demo`}
+                  readOnly
+                />
+                <Button
+                  size="sm"
+                  onClick={async () => {
+                    const inviteLink = `${window.location.origin}/invite/demo`;
+                    try {
+                      if (navigator.clipboard?.writeText) {
+                        await navigator.clipboard.writeText(inviteLink);
+                      } else {
+                        const textarea = document.createElement("textarea");
+                        textarea.value = inviteLink;
+                        document.body.appendChild(textarea);
+                        textarea.select();
+                        document.execCommand("copy");
+                        textarea.remove();
+                      }
+                      setStatusTone("success");
+                      setStatus("Invite link copied to clipboard.");
+                      setShowInvite(false);
+                    } catch (error) {
+                      setStatusTone("warning");
+                      setStatus("Unable to copy link. Try again.");
+                    }
+                  }}
+                >
+                  Copy link
+                </Button>
+              </Surface>
+            </Dialog>
+          </div>
+        ) : null}
       </main>
     </AppShell>
   );

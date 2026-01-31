@@ -50,29 +50,29 @@ const trustLogos = ["ImpactHub", "Catalyst", "Aurora Ventures", "Northwind", "Fi
 const productModules = [
   {
     title: "Explainable match engine",
-    description: "See why each opportunity fits with highlight chips, field evidence, and confidence scores.",
+    description: "See the exact sentences used to tag eligibility, deadlines, and award amounts.",
     bullets: [
-      "Evidence chips for stage, impact, geography",
-      "Snippet-level highlighting for critical eligibility lines",
-      "Confidence meter with historical success benchmarks"
+      "Evidence snippets tied to each extracted field",
+      "Deadline, amount, and region detection",
+      "Trust checks you can verify and edit"
     ]
   },
   {
     title: "Founder readiness workspace",
-    description: "Track profile coverage, missing signals, and re-ranking impact in one panel.",
+    description: "Fill the profile once, then see which signals raise match quality.",
     bullets: [
-      "Recommendation quality meter",
-      "Auto-suggested signal improvements",
-      "Human-in-the-loop corrections with instant feedback"
+      "Recommendation quality meter tied to fields",
+      "Suggested edits for missing eligibility data",
+      "Verify & Improve queue with before/after impact"
     ]
   },
   {
     title: "Application pipeline",
-    description: "Move deals through stages, monitor deadlines, and surface next best actions.",
+    description: "Convert any opportunity into a checklist with drafts and due dates.",
     bullets: [
-      "Saved views for due dates and confidence tiers",
-      "Kanban board with drag-and-drop stages",
-      "Action planner tied to evidence requirements"
+      "Plan phases with tasks and reasons",
+      "Tracker stages from Saved to Submitted",
+      "Draft outreach email and narrative bullets"
     ]
   }
 ];
@@ -80,23 +80,23 @@ const productModules = [
 const featureHighlights = [
   {
     title: "Founder-first filters",
-    description: "VioletFund captures the nuance of women-led impact businesses so you see better fits sooner.",
-    tags: ["Impact stage", "Program type", "Ecosystem focus"]
+    description: "Filter by stage, region, and program type without losing nuance for women-led teams.",
+    tags: ["Stage fit", "Program type", "Region coverage"]
   },
   {
-    title: "Premium fintech polish",
-    description: "Tables, tags, and confidence chips borrow the best of Ramp and Mercury for calm density.",
-    tags: ["Evidence chips", "Signal density", "Decision-ready"]
+    title: "Evidence-first UI",
+    description: "Every recommendation shows the lines that justify the match so you can verify quickly.",
+    tags: ["Evidence snippets", "Trust checks", "Editable fields"]
   },
   {
-    title: "Linear-grade flow",
-    description: "Precise spacing, crisp typography, and purposeful motion keep every action intentional.",
-    tags: ["150-250ms motion", "Accessible focus", "Adaptive layout"]
+    title: "Fast review flow",
+    description: "Analyze, verify, and plan in minutes with clear steps and focused panels.",
+    tags: ["Three-step copilot", "Focused panels", "Clear actions"]
   },
   {
     title: "Dark mode surfaces",
-    description: "Layered surfaces and soft gradients stay legible in both light and dark modes.",
-    tags: ["Layered panels", "Soft borders", "Violet accents"]
+    description: "Layered surfaces stay legible in both light and dark modes.",
+    tags: ["Layered panels", "Soft borders", "Accessible contrast"]
   }
 ];
 
@@ -215,11 +215,11 @@ export default function Landing() {
           <div className="space-y-6">
             <Badge variant="info">Verified funding copilot</Badge>
             <h1 className="text-4xl font-semibold text-[var(--vf-ink-900)] sm:text-5xl">
-              Funding should feel calm, explainable, and built for women founders.
+              Paste a grant link. We extract eligibility, highlight evidence, and generate a to-do plan.
             </h1>
             <p className="text-lg text-[var(--vf-ink-600)]">
-              VioletFund brings Stripe-grade hierarchy and Linear-level clarity to grant discovery. Focus on the opportunities that
-              truly fit, backed by evidence and a collaborative workflow.
+              VioletFund turns funding pages into structured fields, trust checks, and application tasks. Review what was found,
+              correct missing fields, and move straight into a tracker-ready plan.
             </p>
             <div className="flex flex-wrap gap-3">
               <Link href="/auth/signup">
@@ -322,8 +322,8 @@ export default function Landing() {
       <section className="space-y-8">
         <SectionHeader
           eyebrow="Highlights"
-          title="Designed for premium fintech clarity"
-          description="Every element is tuned for focus, hierarchy, and calm density."
+          title="Designed for fast verification"
+          description="Every panel is tuned for quick review, evidence checks, and next-step clarity."
         />
         <div className="grid gap-6 lg:grid-cols-2">
           {featureHighlights.map((feature) => (

@@ -109,3 +109,91 @@ class LabelingTaskReadWithOpportunity(LabelingTaskRead):
 class LabelingTaskUpdate(BaseModel):
     user_corrections: dict[str, Any]
     status: str = "Reviewed"
+
+
+class CopilotAnalyzeTextRequest(BaseModel):
+    title: Optional[str] = None
+    org: Optional[str] = None
+    url: Optional[str] = None
+    raw_text: str
+
+
+class CopilotIngestUrlRequest(BaseModel):
+    url: str
+
+
+class EvidenceItem(BaseModel):
+    label: str
+    snippet: str
+    source: str
+    confidence: float
+
+
+class TrustCheck(BaseModel):
+    name: str
+    ok: bool
+    detail: str
+
+
+class TrustReport(BaseModel):
+    trust_score: int
+    flags: list[str]
+    checks: list[TrustCheck]
+
+
+class ExtractedFields(BaseModel):
+    funding_type: Optional[str] = None
+    amount_text: Optional[str] = None
+    deadline: Optional[str] = None
+    regions: Optional[list[str]] = None
+    stage_fit: Optional[list[str]] = None
+    industries: Optional[list[str]] = None
+
+
+class OpportunityInsights(BaseModel):
+    summary: str
+    extracted: ExtractedFields
+    evidence: list[EvidenceItem]
+    trust: TrustReport
+    suggested_tasks: list[str]
+
+
+class CopilotPlanTask(BaseModel):
+    title: str
+    why: str
+    due_in_days: Optional[int] = None
+
+
+class CopilotPlanPhase(BaseModel):
+    name: str
+    tasks: list[CopilotPlanTask]
+
+
+class CopilotPlanDrafts(BaseModel):
+    outreach_email: str
+    application_bullets: list[str]
+    risks: list[str]
+
+
+class CopilotPlan(BaseModel):
+    phases: list[CopilotPlanPhase]
+    drafts: CopilotPlanDrafts
+
+
+class CopilotIngestResponse(BaseModel):
+    opportunity: OpportunityRead
+    insights: OpportunityInsights
+
+
+class ProfileLite(BaseModel):
+    industry: Optional[str] = None
+    stage: Optional[str] = None
+    location: Optional[str] = None
+    revenue_range: Optional[str] = None
+    keywords: Optional[str] = None
+    woman_owned_certifications: Optional[str] = None
+    free_text_goals: Optional[str] = None
+
+
+class CopilotPlanRequest(BaseModel):
+    profile: Optional[ProfileLite] = None
